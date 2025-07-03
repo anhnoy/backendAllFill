@@ -1,0 +1,874 @@
+2025-06-26 14:14:23 ERROR: Error: Not Found - /api/admin/login, Status: 404, Path: /api/admin/login, Method: POST, Stack: Error: Not Found - /api/admin/login
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:276:14)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+    at router (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:60:12)
+2025-06-26 14:14:49 ERROR: Error: Not Found - /api/admin/login, Status: 404, Path: /api/admin/login, Method: POST, Stack: Error: Not Found - /api/admin/login
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:276:14)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+    at router (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:60:12)
+2025-06-26 14:14:55 ERROR: Error: Not Found - /api/admin/login, Status: 404, Path: /api/admin/login, Method: POST, Stack: Error: Not Found - /api/admin/login
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:276:14)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+    at router (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:60:12)
+2025-06-26 14:15:09 ERROR: Error: Not Found - /api/admin/login, Status: 404, Path: /api/admin/login, Method: POST, Stack: Error: Not Found - /api/admin/login
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:276:14)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+    at router (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:60:12)
+2025-06-26 14:15:23 ERROR: Error: Not Found - /api/admin/login, Status: 404, Path: /api/admin/login, Method: POST, Stack: Error: Not Found - /api/admin/login
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:276:14)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+    at router (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:60:12)
+2025-06-26 14:27:34 ERROR: Error: Not Found - /api/admin/login, Status: 404, Path: /api/admin/login, Method: POST, Stack: Error: Not Found - /api/admin/login
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:276:14)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+    at router (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:60:12)
+2025-06-26 14:34:38 ERROR: Error: Not Found - /api/admin/login, Status: 404, Path: /api/admin/login, Method: GET, Stack: Error: Not Found - /api/admin/login
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:276:14)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+    at router (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:60:12)
+2025-06-26 14:34:39 ERROR: Error: Not Found - /favicon.ico, Status: 404, Path: /favicon.ico, Method: GET, Stack: Error: Not Found - /favicon.ico
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-26 14:34:54 ERROR: Error: Not Found - /api/admin/login, Status: 404, Path: /api/admin/login, Method: POST, Stack: Error: Not Found - /api/admin/login
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:276:14)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+    at router (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:60:12)
+2025-06-26 14:37:11 ERROR: Error: Not Found - /api/admin/login, Status: 404, Path: /api/admin/login, Method: POST, Stack: Error: Not Found - /api/admin/login
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:276:14)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+    at router (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:60:12)
+2025-06-26 14:44:02 ERROR: Error: Not Found - /api/admin/login, Status: 404, Path: /api/admin/login, Method: POST, Stack: Error: Not Found - /api/admin/login
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:276:14)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+    at router (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:60:12)
+2025-06-26 14:44:09 ERROR: Error: Not Found - /login, Status: 404, Path: /login, Method: POST, Stack: Error: Not Found - /login
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:57:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-26 14:44:23 ERROR: Error: Not Found - /login, Status: 404, Path: /login, Method: POST, Stack: Error: Not Found - /login
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:57:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-26 14:46:06 ERROR: Error during admin login for user: 99747127aA@gmail.com. Error: Unknown column 'Admin.username' in 'where clause'
+2025-06-26 14:46:06 ERROR: Error: Unknown column 'Admin.username' in 'where clause', Status: 500, Path: /api/admin/login, Method: POST, Stack: Error
+    at Query.run (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\sequelize\lib\dialects\mysql\query.js:52:25)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MySQLQueryInterface.select (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async Admin.findAll (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\sequelize\lib\model.js:1140:21)
+    at async Admin.findOne (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\sequelize\lib\model.js:1240:12)
+    at async login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:47:23)
+2025-06-26 14:47:17 ERROR: Error during admin login for user: N/A. Error: username is not defined
+2025-06-26 14:47:17 ERROR: Error: username is not defined, Status: 500, Path: /api/admin/login, Method: POST, Stack: ReferenceError: username is not defined
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:77:32)
+2025-06-26 14:48:28 ERROR: Error during admin login for user: 99747127aA@gmail.com. Error: username is not defined
+2025-06-26 14:48:28 ERROR: Error: username is not defined, Status: 500, Path: /api/admin/login, Method: POST, Stack: ReferenceError: username is not defined
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:63:66)
+2025-06-26 14:49:41 ERROR: Error during admin login for user: admin@example.com. Error: username is not defined
+2025-06-26 14:49:41 ERROR: Error: username is not defined, Status: 500, Path: /api/admin/login, Method: POST, Stack: ReferenceError: username is not defined
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:63:66)
+2025-06-26 14:49:57 ERROR: Error during admin login for user: admin@example.com. Error: username is not defined
+2025-06-26 14:49:57 ERROR: Error: username is not defined, Status: 500, Path: /api/admin/login, Method: POST, Stack: ReferenceError: username is not defined
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:63:66)
+2025-06-26 15:21:27 ERROR: Error during admin login for user: 99747127aa@gmail.com. Error: username is not defined
+2025-06-26 15:21:27 ERROR: Error: username is not defined, Status: 500, Path: /api/admin/login, Method: POST, Stack: ReferenceError: username is not defined
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:63:66)
+2025-06-26 16:14:58 ERROR: Error: Cannot read properties of undefined (reading 'email'), Status: 500, Path: /api/admin/login, Method: POST, Stack: TypeError: Cannot read properties of undefined (reading 'email')
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:94:65)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+2025-06-26 16:15:03 ERROR: Error: Cannot read properties of undefined (reading 'email'), Status: 500, Path: /api/admin/login, Method: POST, Stack: TypeError: Cannot read properties of undefined (reading 'email')
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:94:65)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+2025-06-26 16:15:14 ERROR: Error: Cannot read properties of undefined (reading 'email'), Status: 500, Path: /api/admin/login, Method: POST, Stack: TypeError: Cannot read properties of undefined (reading 'email')
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:94:65)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+2025-06-26 16:15:18 ERROR: Error: Cannot read properties of undefined (reading 'email'), Status: 500, Path: /api/admin/login, Method: POST, Stack: TypeError: Cannot read properties of undefined (reading 'email')
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:94:65)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+2025-06-26 16:17:13 ERROR: Error: Cannot read properties of undefined (reading 'email'), Status: 500, Path: /api/admin/login, Method: POST, Stack: TypeError: Cannot read properties of undefined (reading 'email')
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:95:65)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+2025-06-26 16:17:42 ERROR: Error: Not Found - /admin/login, Status: 404, Path: /admin/login, Method: POST, Stack: Error: Not Found - /admin/login
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:57:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-26 16:17:54 ERROR: Error: Not Found - /admin/login, Status: 404, Path: /admin/login, Method: POST, Stack: Error: Not Found - /admin/login
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:57:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-26 16:18:51 ERROR: Error: Cannot read properties of undefined (reading 'email'), Status: 500, Path: /api/admin/login, Method: POST, Stack: TypeError: Cannot read properties of undefined (reading 'email')
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:95:65)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+2025-06-26 16:19:48 ERROR: Error: Cannot read properties of undefined (reading 'email'), Status: 500, Path: /api/admin/login, Method: POST, Stack: TypeError: Cannot read properties of undefined (reading 'email')
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:95:65)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+2025-06-26 16:30:41 ERROR: Error: Not Found - /api/arrival-card/submit, Status: 404, Path: /api/arrival-card/submit, Method: POST, Stack: Error: Not Found - /api/arrival-card/submit
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:57:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-26 16:33:25 ERROR: Error in createArrivalCardSubmission: notNull Violation: ArrivalCardSubmission.firstName cannot be null,
+notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:33:25 ERROR: Error in submitArrivalCard: notNull Violation: ArrivalCardSubmission.firstName cannot be null,
+notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:34:08 ERROR: Error in createArrivalCardSubmission: notNull Violation: ArrivalCardSubmission.firstName cannot be null,
+notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:34:08 ERROR: Error in submitArrivalCard: notNull Violation: ArrivalCardSubmission.firstName cannot be null,
+notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:34:15 ERROR: Error in createArrivalCardSubmission: notNull Violation: ArrivalCardSubmission.firstName cannot be null,
+notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:34:15 ERROR: Error in submitArrivalCard: notNull Violation: ArrivalCardSubmission.firstName cannot be null,
+notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:34:33 ERROR: Error in createArrivalCardSubmission: notNull Violation: ArrivalCardSubmission.firstName cannot be null,
+notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:34:33 ERROR: Error in submitArrivalCard: notNull Violation: ArrivalCardSubmission.firstName cannot be null,
+notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:35:49 ERROR: Error in createArrivalCardSubmission: notNull Violation: ArrivalCardSubmission.firstName cannot be null,
+notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:35:49 ERROR: Error in submitArrivalCard: notNull Violation: ArrivalCardSubmission.firstName cannot be null,
+notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:37:06 ERROR: Error in createArrivalCardSubmission: notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:37:06 ERROR: Error in submitArrivalCard: notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:37:31 ERROR: Error in createArrivalCardSubmission: notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:37:31 ERROR: Error in submitArrivalCard: notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:37:37 ERROR: Error in createArrivalCardSubmission: notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:37:37 ERROR: Error in submitArrivalCard: notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:37:53 ERROR: Error in createArrivalCardSubmission: notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:37:53 ERROR: Error in submitArrivalCard: notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:38:27 ERROR: Error in submitArrivalCard: newSubmission is not defined
+2025-06-26 16:40:24 ERROR: Error in createArrivalCardSubmission: notNull Violation: ArrivalCardSubmission.firstName cannot be null,
+notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:40:24 ERROR: Error in submitArrivalCard: notNull Violation: ArrivalCardSubmission.firstName cannot be null,
+notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:41:19 ERROR: Error in createArrivalCardSubmission: notNull Violation: ArrivalCardSubmission.firstName cannot be null,
+notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:41:19 ERROR: Error in submitArrivalCard: notNull Violation: ArrivalCardSubmission.firstName cannot be null,
+notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:43:27 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-06-26 16:43:27 ERROR: Error in submitArrivalCard: Validation error
+2025-06-26 16:43:34 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-06-26 16:43:34 ERROR: Error in submitArrivalCard: Validation error
+2025-06-26 16:44:01 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-06-26 16:44:01 ERROR: Error in submitArrivalCard: Validation error
+2025-06-26 16:44:11 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-06-26 16:44:11 ERROR: Error in submitArrivalCard: Validation error
+2025-06-26 17:05:44 ERROR: Error: Not Found - /api/v1/arrival-card, Status: 404, Path: /api/v1/arrival-card, Method: PUT, Stack: Error: Not Found - /api/v1/arrival-card
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:57:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-26 17:06:17 ERROR: Error: Not Found - /api/v1/arrival-card, Status: 404, Path: /api/v1/arrival-card, Method: GET, Stack: Error: Not Found - /api/v1/arrival-card
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:57:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-26 17:06:58 ERROR: Error: Not Found - /api/v1/arrival-card?page=1&limit=10, Status: 404, Path: /api/v1/arrival-card?page=1&limit=10, Method: GET, Stack: Error: Not Found - /api/v1/arrival-card?page=1&limit=10
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:57:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-26 17:44:44 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-06-26 17:44:44 ERROR: Error in submitArrivalCard: Validation error
+2025-06-27 08:37:26 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-06-27 08:37:26 ERROR: Error in submitArrivalCard: Validation error
+2025-06-27 11:18:43 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-06-27 11:18:43 ERROR: Error in submitArrivalCard: Validation error
+2025-06-27 11:30:59 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-06-27 11:30:59 ERROR: Error in submitArrivalCard: Validation error
+2025-06-27 12:57:27 ERROR: Error: Not Found - /api/v1/arrival-card/:33a59ba6-084b-4e14-a984-e02311efeed3, Status: 404, Path: /api/v1/arrival-card/:33a59ba6-084b-4e14-a984-e02311efeed3, Method: GET, Stack: Error: Not Found - /api/v1/arrival-card/:33a59ba6-084b-4e14-a984-e02311efeed3
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:57:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-27 12:57:36 ERROR: Error: Not Found - /api/v1/arrival-card/:id, Status: 404, Path: /api/v1/arrival-card/:id, Method: GET, Stack: Error: Not Found - /api/v1/arrival-card/:id
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:57:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-27 12:58:02 ERROR: Error: Not Found - /api/v1/arrival-card/:33a59ba6-084b-4e14-a984-e02311efeed3, Status: 404, Path: /api/v1/arrival-card/:33a59ba6-084b-4e14-a984-e02311efeed3, Method: GET, Stack: Error: Not Found - /api/v1/arrival-card/:33a59ba6-084b-4e14-a984-e02311efeed3
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:57:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-27 13:00:00 ERROR: Error: Not Found - /api/v1/arrival-card/:33a59ba6-084b-4e14-a984-e02311efeed3, Status: 404, Path: /api/v1/arrival-card/:33a59ba6-084b-4e14-a984-e02311efeed3, Method: GET, Stack: Error: Not Found - /api/v1/arrival-card/:33a59ba6-084b-4e14-a984-e02311efeed3
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-27 15:45:53 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/:33a59ba6-084b-4e14-a984-e02311efeed3, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:102:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-06-27 15:49:03 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/%3C40262aab-0eb8-4e1b-a98e-b37c518c5a45%3E, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:102:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-06-27 16:15:22 ERROR: Error in deleteArrivalCardSubmission: Arrival Card submission not found
+2025-06-27 16:15:22 ERROR: Error deleting Arrival Card: Arrival Card submission not found
+2025-06-27 16:15:22 ERROR: Error: Arrival Card submission not found, Status: 500, Path: /api/v1/arrival-card/40262aab-0eb8-4e1b-a98e-b37c518c5a45, Method: DELETE, Stack: Error: Arrival Card submission not found
+    at deleteArrivalCardSubmission (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\repositories\arrivalCardRepository.js:52:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async deleteArrivalCard (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:166:5)
+2025-06-27 16:16:21 ERROR: Error in deleteArrivalCardSubmission: Arrival Card submission not found
+2025-06-27 16:16:21 ERROR: Error deleting Arrival Card: Arrival Card submission not found
+2025-06-27 16:16:21 ERROR: Error: Arrival Card submission not found, Status: 500, Path: /api/v1/arrival-card/40262aab-0eb8-4e1b-a98e-b37c518c5a4, Method: DELETE, Stack: Error: Arrival Card submission not found
+    at deleteArrivalCardSubmission (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\repositories\arrivalCardRepository.js:52:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async deleteArrivalCard (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:166:5)
+2025-06-30 09:17:31 ERROR: ❌ Unable to connect to DB or sync: 
+2025-06-30 09:59:54 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/40262aab-0eb8-4e1b-a98e-b37c518c5a45, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:104:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-06-30 10:00:30 ERROR: Error: Not Found - /api/v1/33a59ba6-084b-4e14-a984-e02311efeed3, Status: 404, Path: /api/v1/33a59ba6-084b-4e14-a984-e02311efeed3, Method: GET, Stack: Error: Not Found - /api/v1/33a59ba6-084b-4e14-a984-e02311efeed3
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-30 10:00:48 ERROR: Error: Not Found - /api/v1/, Status: 404, Path: /api/v1/, Method: GET, Stack: Error: Not Found - /api/v1/
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-30 10:00:50 ERROR: Error: Not Found - /api/v1/, Status: 404, Path: /api/v1/, Method: GET, Stack: Error: Not Found - /api/v1/
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-30 10:19:58 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-06-30 10:19:58 ERROR: Error in submitArrivalCard: Validation error
+2025-06-30 11:16:45 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-06-30 11:16:45 ERROR: Error in submitArrivalCard: Validation error
+2025-06-30 11:16:50 ERROR: Error in updateArrivalCardSubmission: Arrival Card submission not found
+2025-06-30 11:16:50 ERROR: Error updating Arrival Card: Arrival Card submission not found
+2025-06-30 11:16:50 ERROR: Error: Arrival Card submission not found, Status: 500, Path: /api/v1/arrival-card/40262aab-0eb8-4e1b-a98e-b37c518c5a45, Method: PUT, Stack: Error: Arrival Card submission not found
+    at updateArrivalCardSubmission (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\repositories\arrivalCardRepository.js:40:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async updateArrivalCard (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:151:21)
+2025-06-30 14:00:30 ERROR: Error during admin login for user: 99747127aa@gmail.com. Error: username is not defined
+2025-06-30 14:00:30 ERROR: Error: username is not defined, Status: 500, Path: /api/admin/login, Method: POST, Stack: ReferenceError: username is not defined
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:64:66)
+2025-06-30 14:01:55 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:104:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-06-30 14:02:10 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:104:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-06-30 14:02:21 ERROR: Error in deleteArrivalCardSubmission: Arrival Card submission not found
+2025-06-30 14:02:21 ERROR: Error deleting Arrival Card: Arrival Card submission not found
+2025-06-30 14:02:21 ERROR: Error: Arrival Card submission not found, Status: 500, Path: /api/v1/arrival-card/5, Method: DELETE, Stack: Error: Arrival Card submission not found
+    at deleteArrivalCardSubmission (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\repositories\arrivalCardRepository.js:52:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async deleteArrivalCard (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:166:5)
+2025-06-30 14:03:23 ERROR: Error in deleteArrivalCardSubmission: Arrival Card submission not found
+2025-06-30 14:03:23 ERROR: Error deleting Arrival Card: Arrival Card submission not found
+2025-06-30 14:03:23 ERROR: Error: Arrival Card submission not found, Status: 500, Path: /api/v1/arrival-card/5, Method: DELETE, Stack: Error: Arrival Card submission not found
+    at deleteArrivalCardSubmission (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\repositories\arrivalCardRepository.js:52:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async deleteArrivalCard (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:166:5)
+2025-06-30 14:04:07 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:104:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-06-30 14:04:15 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/3, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:104:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-06-30 14:17:07 ERROR: Error in deleteArrivalCardSubmission: Arrival Card submission not found
+2025-06-30 14:17:07 ERROR: Error deleting Arrival Card: Arrival Card submission not found
+2025-06-30 14:17:07 ERROR: Error: Arrival Card submission not found, Status: 500, Path: /api/v1/arrival-card/7, Method: DELETE, Stack: Error: Arrival Card submission not found
+    at deleteArrivalCardSubmission (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\repositories\arrivalCardRepository.js:52:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async deleteArrivalCard (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:166:5)
+2025-06-30 14:18:01 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/6, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:104:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-06-30 17:06:57 ERROR: Error: Not Found - /, Status: 404, Path: /, Method: GET, Stack: Error: Not Found - /
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-30 17:06:58 ERROR: Error: Not Found - /favicon.ico, Status: 404, Path: /favicon.ico, Method: GET, Stack: Error: Not Found - /favicon.ico
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-30 17:12:40 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-06-30 17:12:40 ERROR: Error in submitArrivalCard: Validation error
+2025-06-30 17:12:42 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-06-30 17:12:42 ERROR: Error in submitArrivalCard: Validation error
+2025-06-30 17:18:41 ERROR: Error: Not Found - /api/test, Status: 404, Path: /api/test, Method: GET, Stack: Error: Not Found - /api/test
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:276:14)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+    at router (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:60:12)
+2025-06-30 17:18:50 ERROR: Error: Not Found - /test, Status: 404, Path: /test, Method: GET, Stack: Error: Not Found - /test
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-07-01 08:14:28 ERROR: ❌ Unable to connect to DB or sync: 
+2025-07-01 08:48:32 ERROR: Error: Not Found - /favicon.ico, Status: 404, Path: /favicon.ico, Method: GET, Stack: Error: Not Found - /favicon.ico
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-07-01 10:00:50 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-07-01 10:00:50 ERROR: Error in submitArrivalCard: Validation error
+2025-07-01 10:01:02 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-07-01 10:01:02 ERROR: Error in submitArrivalCard: Validation error
+2025-07-01 10:01:26 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-07-01 10:01:26 ERROR: Error in submitArrivalCard: Validation error
+2025-07-01 10:01:54 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-07-01 10:01:54 ERROR: Error in submitArrivalCard: Validation error
+2025-07-01 10:02:35 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-07-01 10:02:35 ERROR: Error in submitArrivalCard: Validation error
+2025-07-01 10:07:27 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-07-01 10:07:27 ERROR: Error in submitArrivalCard: Validation error
+2025-07-01 10:09:05 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-01 10:09:10 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-01 14:22:45 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-07-01 14:22:45 ERROR: Error in submitArrivalCard: Validation error
+2025-07-01 14:22:57 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-07-01 14:22:57 ERROR: Error in submitArrivalCard: Validation error
+2025-07-01 14:24:39 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-07-01 14:24:39 ERROR: Error in submitArrivalCard: Validation error
+2025-07-01 14:24:40 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-07-01 14:24:40 ERROR: Error in submitArrivalCard: Validation error
+2025-07-01 14:24:57 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-01 14:30:10 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:30:33 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:31:05 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:31:52 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:32:14 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:33:01 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:33:04 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:33:50 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:34:29 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:35:09 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:35:11 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:35:12 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:36:31 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:52:19 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:52:40 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:53:07 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-02 14:19:36 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-02 14:19:38 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 09:04:16 ERROR: ❌ Unable to connect to DB or sync: 
+2025-07-03 09:39:55 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 09:40:12 ERROR: Error in deleteArrivalCardSubmission: Arrival Card submission not found
+2025-07-03 09:40:12 ERROR: Error deleting Arrival Card: Arrival Card submission not found
+2025-07-03 09:40:12 ERROR: Error: Arrival Card submission not found, Status: 500, Path: /api/v1/arrival-card/1, Method: DELETE, Stack: Error: Arrival Card submission not found
+    at deleteArrivalCardSubmission (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\repositories\arrivalCardRepository.js:54:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async deleteArrivalCard (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:178:5)
+2025-07-03 09:40:20 ERROR: Error in deleteArrivalCardSubmission: Arrival Card submission not found
+2025-07-03 09:40:20 ERROR: Error deleting Arrival Card: Arrival Card submission not found
+2025-07-03 09:40:20 ERROR: Error: Arrival Card submission not found, Status: 500, Path: /api/v1/arrival-card/1, Method: DELETE, Stack: Error: Arrival Card submission not found
+    at deleteArrivalCardSubmission (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\repositories\arrivalCardRepository.js:54:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async deleteArrivalCard (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:178:5)
+2025-07-03 09:40:55 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 09:52:08 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 09:54:51 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/33a59ba6-084b-4e14-a984-e02311efeed3, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 10:35:42 ERROR: Error: Not Found - /favicon.ico, Status: 404, Path: /favicon.ico, Method: GET, Stack: Error: Not Found - /favicon.ico
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-07-03 11:11:15 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 11:29:09 ERROR: Error: Not Found - /favicon.ico, Status: 404, Path: /favicon.ico, Method: GET, Stack: Error: Not Found - /favicon.ico
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-07-03 13:18:27 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-03 13:19:28 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-03 13:20:07 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-03 13:21:05 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-03 13:23:55 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)

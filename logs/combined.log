@@ -1,0 +1,1571 @@
+2025-06-26 13:43:15 INFO: ✅ Database connection has been established successfully.
+2025-06-26 13:43:15 INFO: ✅ Database synced
+2025-06-26 13:43:15 INFO: 🚀 Server running on port 5000
+2025-06-26 13:44:35 INFO: Admin user undefined logged in successfully.
+2025-06-26 13:44:50 INFO: Admin user undefined logged in successfully.
+2025-06-26 13:44:56 INFO: Admin user undefined logged in successfully.
+2025-06-26 13:44:59 INFO: Admin user undefined logged in successfully.
+2025-06-26 13:45:07 INFO: Admin user undefined logged in successfully.
+2025-06-26 13:46:01 INFO: Admin user undefined logged in successfully.
+2025-06-26 14:13:30 INFO: ✅ Database connection has been established successfully.
+2025-06-26 14:13:30 INFO: ✅ Database synced
+2025-06-26 14:13:30 INFO: 🚀 Server running on port 5000
+2025-06-26 14:13:30 INFO: ✅ Database connection has been established successfully.
+2025-06-26 14:13:30 INFO: ✅ Database synced
+2025-06-26 14:13:30 INFO: 🚀 Server running on port 5000
+2025-06-26 14:14:23 ERROR: Error: Not Found - /api/admin/login, Status: 404, Path: /api/admin/login, Method: POST, Stack: Error: Not Found - /api/admin/login
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:276:14)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+    at router (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:60:12)
+2025-06-26 14:14:49 ERROR: Error: Not Found - /api/admin/login, Status: 404, Path: /api/admin/login, Method: POST, Stack: Error: Not Found - /api/admin/login
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:276:14)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+    at router (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:60:12)
+2025-06-26 14:14:55 ERROR: Error: Not Found - /api/admin/login, Status: 404, Path: /api/admin/login, Method: POST, Stack: Error: Not Found - /api/admin/login
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:276:14)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+    at router (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:60:12)
+2025-06-26 14:15:09 ERROR: Error: Not Found - /api/admin/login, Status: 404, Path: /api/admin/login, Method: POST, Stack: Error: Not Found - /api/admin/login
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:276:14)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+    at router (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:60:12)
+2025-06-26 14:15:23 ERROR: Error: Not Found - /api/admin/login, Status: 404, Path: /api/admin/login, Method: POST, Stack: Error: Not Found - /api/admin/login
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:276:14)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+    at router (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:60:12)
+2025-06-26 14:27:34 ERROR: Error: Not Found - /api/admin/login, Status: 404, Path: /api/admin/login, Method: POST, Stack: Error: Not Found - /api/admin/login
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:276:14)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+    at router (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:60:12)
+2025-06-26 14:34:38 ERROR: Error: Not Found - /api/admin/login, Status: 404, Path: /api/admin/login, Method: GET, Stack: Error: Not Found - /api/admin/login
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:276:14)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+    at router (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:60:12)
+2025-06-26 14:34:39 ERROR: Error: Not Found - /favicon.ico, Status: 404, Path: /favicon.ico, Method: GET, Stack: Error: Not Found - /favicon.ico
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-26 14:34:54 ERROR: Error: Not Found - /api/admin/login, Status: 404, Path: /api/admin/login, Method: POST, Stack: Error: Not Found - /api/admin/login
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:276:14)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+    at router (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:60:12)
+2025-06-26 14:37:11 ERROR: Error: Not Found - /api/admin/login, Status: 404, Path: /api/admin/login, Method: POST, Stack: Error: Not Found - /api/admin/login
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:276:14)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+    at router (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:60:12)
+2025-06-26 14:44:02 ERROR: Error: Not Found - /api/admin/login, Status: 404, Path: /api/admin/login, Method: POST, Stack: Error: Not Found - /api/admin/login
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:276:14)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+    at router (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:60:12)
+2025-06-26 14:44:09 ERROR: Error: Not Found - /login, Status: 404, Path: /login, Method: POST, Stack: Error: Not Found - /login
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:57:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-26 14:44:20 INFO: ✅ Database connection has been established successfully.
+2025-06-26 14:44:20 INFO: ✅ Database connection has been established successfully.
+2025-06-26 14:44:20 INFO: ✅ Database synced
+2025-06-26 14:44:20 INFO: ✅ Database synced
+2025-06-26 14:44:20 INFO: 🚀 Server running on port 5000
+2025-06-26 14:44:20 INFO: 🚀 Server running on port 5000
+2025-06-26 14:44:23 ERROR: Error: Not Found - /login, Status: 404, Path: /login, Method: POST, Stack: Error: Not Found - /login
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:57:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-26 14:44:43 WARN: Login attempt: Missing username or password.
+2025-06-26 14:46:06 ERROR: Error during admin login for user: 99747127aA@gmail.com. Error: Unknown column 'Admin.username' in 'where clause'
+2025-06-26 14:46:06 ERROR: Error: Unknown column 'Admin.username' in 'where clause', Status: 500, Path: /api/admin/login, Method: POST, Stack: Error
+    at Query.run (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\sequelize\lib\dialects\mysql\query.js:52:25)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MySQLQueryInterface.select (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async Admin.findAll (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\sequelize\lib\model.js:1140:21)
+    at async Admin.findOne (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\sequelize\lib\model.js:1240:12)
+    at async login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:47:23)
+2025-06-26 14:47:08 INFO: ✅ Database connection has been established successfully.
+2025-06-26 14:47:08 INFO: ✅ Database synced
+2025-06-26 14:47:08 INFO: 🚀 Server running on port 5000
+2025-06-26 14:47:08 INFO: ✅ Database connection has been established successfully.
+2025-06-26 14:47:08 INFO: ✅ Database synced
+2025-06-26 14:47:08 INFO: 🚀 Server running on port 5000
+2025-06-26 14:47:17 ERROR: Error during admin login for user: N/A. Error: username is not defined
+2025-06-26 14:47:17 ERROR: Error: username is not defined, Status: 500, Path: /api/admin/login, Method: POST, Stack: ReferenceError: username is not defined
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:77:32)
+2025-06-26 14:48:16 INFO: ✅ Database connection has been established successfully.
+2025-06-26 14:48:16 INFO: ✅ Database synced
+2025-06-26 14:48:16 INFO: 🚀 Server running on port 5000
+2025-06-26 14:48:16 INFO: ✅ Database connection has been established successfully.
+2025-06-26 14:48:17 INFO: ✅ Database synced
+2025-06-26 14:48:17 INFO: 🚀 Server running on port 5000
+2025-06-26 14:48:20 INFO: Admin user '99747127aA@gmail.com' logged in successfully. Token issued.
+2025-06-26 14:48:26 INFO: Admin user '99747127aA@gmail.com' logged in successfully. Token issued.
+2025-06-26 14:48:28 ERROR: Error during admin login for user: 99747127aA@gmail.com. Error: username is not defined
+2025-06-26 14:48:28 ERROR: Error: username is not defined, Status: 500, Path: /api/admin/login, Method: POST, Stack: ReferenceError: username is not defined
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:63:66)
+2025-06-26 14:49:41 ERROR: Error during admin login for user: admin@example.com. Error: username is not defined
+2025-06-26 14:49:41 ERROR: Error: username is not defined, Status: 500, Path: /api/admin/login, Method: POST, Stack: ReferenceError: username is not defined
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:63:66)
+2025-06-26 14:49:57 ERROR: Error during admin login for user: admin@example.com. Error: username is not defined
+2025-06-26 14:49:57 ERROR: Error: username is not defined, Status: 500, Path: /api/admin/login, Method: POST, Stack: ReferenceError: username is not defined
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:63:66)
+2025-06-26 14:51:00 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-06-26 15:21:10 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-06-26 15:21:27 ERROR: Error during admin login for user: 99747127aa@gmail.com. Error: username is not defined
+2025-06-26 15:21:27 ERROR: Error: username is not defined, Status: 500, Path: /api/admin/login, Method: POST, Stack: ReferenceError: username is not defined
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:63:66)
+2025-06-26 15:21:36 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-06-26 16:08:39 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:08:39 INFO: ✅ Database synced
+2025-06-26 16:08:39 INFO: 🚀 Server running on port 5000
+2025-06-26 16:08:39 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:08:39 INFO: ✅ Database synced
+2025-06-26 16:08:39 INFO: 🚀 Server running on port 5000
+2025-06-26 16:09:59 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:09:59 INFO: ✅ Database synced
+2025-06-26 16:09:59 INFO: 🚀 Server running on port 5000
+2025-06-26 16:09:59 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:09:59 INFO: ✅ Database synced
+2025-06-26 16:09:59 INFO: 🚀 Server running on port 5000
+2025-06-26 16:14:43 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:14:43 INFO: ✅ Database synced
+2025-06-26 16:14:43 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:14:43 INFO: 🚀 Server running on port 5000
+2025-06-26 16:14:43 INFO: ✅ Database synced
+2025-06-26 16:14:43 INFO: 🚀 Server running on port 5000
+2025-06-26 16:14:58 ERROR: Error: Cannot read properties of undefined (reading 'email'), Status: 500, Path: /api/admin/login, Method: POST, Stack: TypeError: Cannot read properties of undefined (reading 'email')
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:94:65)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+2025-06-26 16:15:03 ERROR: Error: Cannot read properties of undefined (reading 'email'), Status: 500, Path: /api/admin/login, Method: POST, Stack: TypeError: Cannot read properties of undefined (reading 'email')
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:94:65)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+2025-06-26 16:15:12 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:15:12 INFO: ✅ Database synced
+2025-06-26 16:15:12 INFO: 🚀 Server running on port 5000
+2025-06-26 16:15:14 ERROR: Error: Cannot read properties of undefined (reading 'email'), Status: 500, Path: /api/admin/login, Method: POST, Stack: TypeError: Cannot read properties of undefined (reading 'email')
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:94:65)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+2025-06-26 16:15:18 ERROR: Error: Cannot read properties of undefined (reading 'email'), Status: 500, Path: /api/admin/login, Method: POST, Stack: TypeError: Cannot read properties of undefined (reading 'email')
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:94:65)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+2025-06-26 16:17:08 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:17:08 INFO: ✅ Database synced
+2025-06-26 16:17:08 INFO: 🚀 Server running on port 5000
+2025-06-26 16:17:08 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:17:08 INFO: ✅ Database synced
+2025-06-26 16:17:08 INFO: 🚀 Server running on port 5000
+2025-06-26 16:17:13 ERROR: Error: Cannot read properties of undefined (reading 'email'), Status: 500, Path: /api/admin/login, Method: POST, Stack: TypeError: Cannot read properties of undefined (reading 'email')
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:95:65)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+2025-06-26 16:17:42 ERROR: Error: Not Found - /admin/login, Status: 404, Path: /admin/login, Method: POST, Stack: Error: Not Found - /admin/login
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:57:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-26 16:17:54 ERROR: Error: Not Found - /admin/login, Status: 404, Path: /admin/login, Method: POST, Stack: Error: Not Found - /admin/login
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:57:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-26 16:18:51 ERROR: Error: Cannot read properties of undefined (reading 'email'), Status: 500, Path: /api/admin/login, Method: POST, Stack: TypeError: Cannot read properties of undefined (reading 'email')
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:95:65)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+2025-06-26 16:19:48 ERROR: Error: Cannot read properties of undefined (reading 'email'), Status: 500, Path: /api/admin/login, Method: POST, Stack: TypeError: Cannot read properties of undefined (reading 'email')
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:95:65)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+2025-06-26 16:20:44 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:20:44 INFO: ✅ Database synced
+2025-06-26 16:20:44 INFO: 🚀 Server running on port 5000
+2025-06-26 16:20:44 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:20:44 INFO: ✅ Database synced
+2025-06-26 16:20:44 INFO: 🚀 Server running on port 5000
+2025-06-26 16:20:49 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-06-26 16:21:21 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:21:21 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:21:21 INFO: ✅ Database synced
+2025-06-26 16:21:21 INFO: ✅ Database synced
+2025-06-26 16:21:21 INFO: 🚀 Server running on port 5000
+2025-06-26 16:21:21 INFO: 🚀 Server running on port 5000
+2025-06-26 16:21:25 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-06-26 16:23:06 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:23:06 INFO: ✅ Database synced
+2025-06-26 16:23:06 INFO: 🚀 Server running on port 5000
+2025-06-26 16:23:06 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:23:06 INFO: ✅ Database synced
+2025-06-26 16:23:06 INFO: 🚀 Server running on port 5000
+2025-06-26 16:23:13 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-06-26 16:23:20 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-06-26 16:23:37 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-06-26 16:23:46 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:23:46 INFO: ✅ Database synced
+2025-06-26 16:23:46 INFO: 🚀 Server running on port 5000
+2025-06-26 16:23:46 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:23:46 INFO: ✅ Database synced
+2025-06-26 16:23:46 INFO: 🚀 Server running on port 5000
+2025-06-26 16:23:48 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-06-26 16:24:45 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:24:45 INFO: ✅ Database synced
+2025-06-26 16:24:45 INFO: 🚀 Server running on port 5000
+2025-06-26 16:24:45 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:24:45 INFO: ✅ Database synced
+2025-06-26 16:24:45 INFO: 🚀 Server running on port 5000
+2025-06-26 16:25:03 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:25:03 INFO: ✅ Database synced
+2025-06-26 16:25:03 INFO: 🚀 Server running on port 5000
+2025-06-26 16:25:03 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:25:03 INFO: ✅ Database synced
+2025-06-26 16:25:03 INFO: 🚀 Server running on port 5000
+2025-06-26 16:25:05 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:25:05 INFO: ✅ Database synced
+2025-06-26 16:25:05 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:25:05 INFO: 🚀 Server running on port 5000
+2025-06-26 16:25:05 INFO: ✅ Database synced
+2025-06-26 16:25:05 INFO: 🚀 Server running on port 5000
+2025-06-26 16:26:56 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-06-26 16:28:36 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:28:36 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:28:36 INFO: ✅ Database synced
+2025-06-26 16:28:36 INFO: ✅ Database synced
+2025-06-26 16:28:36 INFO: 🚀 Server running on port 5000
+2025-06-26 16:28:36 INFO: 🚀 Server running on port 5000
+2025-06-26 16:29:10 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-06-26 16:30:29 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:30:29 INFO: ✅ Database synced
+2025-06-26 16:30:29 INFO: 🚀 Server running on port 5000
+2025-06-26 16:30:30 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:30:30 INFO: ✅ Database synced
+2025-06-26 16:30:30 INFO: 🚀 Server running on port 5000
+2025-06-26 16:30:41 ERROR: Error: Not Found - /api/arrival-card/submit, Status: 404, Path: /api/arrival-card/submit, Method: POST, Stack: Error: Not Found - /api/arrival-card/submit
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:57:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-26 16:31:04 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:31:04 INFO: ✅ Database synced
+2025-06-26 16:31:04 INFO: 🚀 Server running on port 5000
+2025-06-26 16:31:04 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:31:04 INFO: ✅ Database synced
+2025-06-26 16:31:04 INFO: 🚀 Server running on port 5000
+2025-06-26 16:33:25 ERROR: Error in createArrivalCardSubmission: notNull Violation: ArrivalCardSubmission.firstName cannot be null,
+notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:33:25 ERROR: Error in submitArrivalCard: notNull Violation: ArrivalCardSubmission.firstName cannot be null,
+notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:34:04 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:34:04 INFO: ✅ Database synced
+2025-06-26 16:34:04 INFO: 🚀 Server running on port 5000
+2025-06-26 16:34:04 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:34:04 INFO: ✅ Database synced
+2025-06-26 16:34:04 INFO: 🚀 Server running on port 5000
+2025-06-26 16:34:08 ERROR: Error in createArrivalCardSubmission: notNull Violation: ArrivalCardSubmission.firstName cannot be null,
+notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:34:08 ERROR: Error in submitArrivalCard: notNull Violation: ArrivalCardSubmission.firstName cannot be null,
+notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:34:15 ERROR: Error in createArrivalCardSubmission: notNull Violation: ArrivalCardSubmission.firstName cannot be null,
+notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:34:15 ERROR: Error in submitArrivalCard: notNull Violation: ArrivalCardSubmission.firstName cannot be null,
+notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:34:33 ERROR: Error in createArrivalCardSubmission: notNull Violation: ArrivalCardSubmission.firstName cannot be null,
+notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:34:33 ERROR: Error in submitArrivalCard: notNull Violation: ArrivalCardSubmission.firstName cannot be null,
+notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:35:46 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:35:46 INFO: ✅ Database synced
+2025-06-26 16:35:46 INFO: 🚀 Server running on port 5000
+2025-06-26 16:35:46 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:35:46 INFO: ✅ Database synced
+2025-06-26 16:35:46 INFO: 🚀 Server running on port 5000
+2025-06-26 16:35:49 ERROR: Error in createArrivalCardSubmission: notNull Violation: ArrivalCardSubmission.firstName cannot be null,
+notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:35:49 ERROR: Error in submitArrivalCard: notNull Violation: ArrivalCardSubmission.firstName cannot be null,
+notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:37:02 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:37:02 INFO: ✅ Database synced
+2025-06-26 16:37:02 INFO: 🚀 Server running on port 5000
+2025-06-26 16:37:02 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:37:02 INFO: ✅ Database synced
+2025-06-26 16:37:02 INFO: 🚀 Server running on port 5000
+2025-06-26 16:37:06 ERROR: Error in createArrivalCardSubmission: notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:37:06 ERROR: Error in submitArrivalCard: notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:37:20 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:37:20 INFO: ✅ Database synced
+2025-06-26 16:37:20 INFO: 🚀 Server running on port 5000
+2025-06-26 16:37:31 ERROR: Error in createArrivalCardSubmission: notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:37:31 ERROR: Error in submitArrivalCard: notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:37:37 ERROR: Error in createArrivalCardSubmission: notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:37:37 ERROR: Error in submitArrivalCard: notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:37:51 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:37:51 INFO: ✅ Database synced
+2025-06-26 16:37:51 INFO: 🚀 Server running on port 5000
+2025-06-26 16:37:53 ERROR: Error in createArrivalCardSubmission: notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:37:53 ERROR: Error in submitArrivalCard: notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:38:23 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:38:23 INFO: ✅ Database synced
+2025-06-26 16:38:23 INFO: 🚀 Server running on port 5000
+2025-06-26 16:38:23 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:38:23 INFO: ✅ Database synced
+2025-06-26 16:38:23 INFO: 🚀 Server running on port 5000
+2025-06-26 16:38:27 ERROR: Error in submitArrivalCard: newSubmission is not defined
+2025-06-26 16:39:03 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:39:03 INFO: ✅ Database synced
+2025-06-26 16:39:03 INFO: 🚀 Server running on port 5000
+2025-06-26 16:39:03 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:39:03 INFO: ✅ Database synced
+2025-06-26 16:39:03 INFO: 🚀 Server running on port 5000
+2025-06-26 16:40:00 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:40:00 INFO: ✅ Database synced
+2025-06-26 16:40:00 INFO: 🚀 Server running on port 5000
+2025-06-26 16:40:00 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:40:00 INFO: ✅ Database synced
+2025-06-26 16:40:00 INFO: 🚀 Server running on port 5000
+2025-06-26 16:40:19 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:40:19 INFO: ✅ Database synced
+2025-06-26 16:40:19 INFO: 🚀 Server running on port 5000
+2025-06-26 16:40:19 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:40:19 INFO: ✅ Database synced
+2025-06-26 16:40:19 INFO: 🚀 Server running on port 5000
+2025-06-26 16:40:24 ERROR: Error in createArrivalCardSubmission: notNull Violation: ArrivalCardSubmission.firstName cannot be null,
+notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:40:24 ERROR: Error in submitArrivalCard: notNull Violation: ArrivalCardSubmission.firstName cannot be null,
+notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:41:07 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:41:07 INFO: ✅ Database synced
+2025-06-26 16:41:07 INFO: 🚀 Server running on port 5000
+2025-06-26 16:41:08 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:41:08 INFO: ✅ Database synced
+2025-06-26 16:41:08 INFO: 🚀 Server running on port 5000
+2025-06-26 16:41:19 ERROR: Error in createArrivalCardSubmission: notNull Violation: ArrivalCardSubmission.firstName cannot be null,
+notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:41:19 ERROR: Error in submitArrivalCard: notNull Violation: ArrivalCardSubmission.firstName cannot be null,
+notNull Violation: ArrivalCardSubmission.lastName cannot be null,
+notNull Violation: ArrivalCardSubmission.passportNo cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfBirth cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.phoneNo cannot be null,
+notNull Violation: ArrivalCardSubmission.cityOfResidence cannot be null,
+notNull Violation: ArrivalCardSubmission.dateOfArrival cannot be null,
+notNull Violation: ArrivalCardSubmission.countryOfBoarded cannot be null,
+notNull Violation: ArrivalCardSubmission.purposeOfTravel cannot be null,
+notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
+2025-06-26 16:42:25 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:42:25 INFO: ✅ Database synced
+2025-06-26 16:42:25 INFO: 🚀 Server running on port 5000
+2025-06-26 16:42:25 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:42:25 INFO: ✅ Database synced
+2025-06-26 16:42:25 INFO: 🚀 Server running on port 5000
+2025-06-26 16:42:49 INFO: New Arrival Card submission created:
+2025-06-26 16:43:23 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:43:23 INFO: ✅ Database synced
+2025-06-26 16:43:23 INFO: 🚀 Server running on port 5000
+2025-06-26 16:43:23 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:43:23 INFO: ✅ Database synced
+2025-06-26 16:43:23 INFO: 🚀 Server running on port 5000
+2025-06-26 16:43:27 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-06-26 16:43:27 ERROR: Error in submitArrivalCard: Validation error
+2025-06-26 16:43:33 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:43:33 INFO: ✅ Database synced
+2025-06-26 16:43:33 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:43:33 INFO: 🚀 Server running on port 5000
+2025-06-26 16:43:33 INFO: ✅ Database synced
+2025-06-26 16:43:33 INFO: 🚀 Server running on port 5000
+2025-06-26 16:43:34 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-06-26 16:43:34 ERROR: Error in submitArrivalCard: Validation error
+2025-06-26 16:43:52 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:43:52 INFO: ✅ Database synced
+2025-06-26 16:43:52 INFO: 🚀 Server running on port 5000
+2025-06-26 16:43:53 INFO: ✅ Database connection has been established successfully.
+2025-06-26 16:43:53 INFO: ✅ Database synced
+2025-06-26 16:43:53 INFO: 🚀 Server running on port 5000
+2025-06-26 16:44:01 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-06-26 16:44:01 ERROR: Error in submitArrivalCard: Validation error
+2025-06-26 16:44:11 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-06-26 16:44:11 ERROR: Error in submitArrivalCard: Validation error
+2025-06-26 16:44:52 INFO: New Arrival Card submission created:
+2025-06-26 17:05:44 ERROR: Error: Not Found - /api/v1/arrival-card, Status: 404, Path: /api/v1/arrival-card, Method: PUT, Stack: Error: Not Found - /api/v1/arrival-card
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:57:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-26 17:06:17 ERROR: Error: Not Found - /api/v1/arrival-card, Status: 404, Path: /api/v1/arrival-card, Method: GET, Stack: Error: Not Found - /api/v1/arrival-card
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:57:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-26 17:06:58 ERROR: Error: Not Found - /api/v1/arrival-card?page=1&limit=10, Status: 404, Path: /api/v1/arrival-card?page=1&limit=10, Method: GET, Stack: Error: Not Found - /api/v1/arrival-card?page=1&limit=10
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:57:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-26 17:33:51 INFO: ✅ Database connection has been established successfully.
+2025-06-26 17:33:51 INFO: ✅ Database synced
+2025-06-26 17:33:51 INFO: 🚀 Server running on port 5000
+2025-06-26 17:42:19 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-06-26 17:42:25 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-06-26 17:43:09 INFO: ✅ Database connection has been established successfully.
+2025-06-26 17:43:09 INFO: ✅ Database synced
+2025-06-26 17:43:09 INFO: 🚀 Server running on port 5000
+2025-06-26 17:43:09 INFO: ✅ Database connection has been established successfully.
+2025-06-26 17:43:09 INFO: ✅ Database synced
+2025-06-26 17:43:09 INFO: 🚀 Server running on port 5000
+2025-06-26 17:43:14 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-06-26 17:44:44 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-06-26 17:44:44 ERROR: Error in submitArrivalCard: Validation error
+2025-06-27 08:37:24 INFO: ✅ Database connection has been established successfully.
+2025-06-27 08:37:24 INFO: ✅ Database synced
+2025-06-27 08:37:24 INFO: 🚀 Server running on port 5000
+2025-06-27 08:37:26 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-06-27 08:37:26 ERROR: Error in submitArrivalCard: Validation error
+2025-06-27 08:37:45 INFO: New Arrival Card submission created:
+2025-06-27 09:36:17 INFO: ✅ Database connection has been established successfully.
+2025-06-27 09:36:17 INFO: ✅ Database synced
+2025-06-27 09:36:17 INFO: 🚀 Server running on port 5000
+2025-06-27 09:41:21 INFO: ✅ Database connection has been established successfully.
+2025-06-27 09:41:21 INFO: ✅ Database synced
+2025-06-27 09:41:21 INFO: 🚀 Server running on port 5000
+2025-06-27 09:49:13 INFO: ✅ Database connection has been established successfully.
+2025-06-27 09:49:13 INFO: ✅ Database synced
+2025-06-27 09:49:13 INFO: 🚀 Server running on port 5000
+2025-06-27 09:51:39 INFO: ✅ Database connection has been established successfully.
+2025-06-27 09:51:39 INFO: ✅ Database synced
+2025-06-27 09:51:39 INFO: 🚀 Server running on port 5000
+2025-06-27 09:57:37 INFO: ✅ Database connection has been established successfully.
+2025-06-27 09:57:37 INFO: ✅ Database synced
+2025-06-27 09:57:37 INFO: 🚀 Server running on port 5000
+2025-06-27 10:00:55 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-06-27 10:01:59 INFO: ✅ Database connection has been established successfully.
+2025-06-27 10:01:59 INFO: ✅ Database synced
+2025-06-27 10:01:59 INFO: 🚀 Server running on port 5000
+2025-06-27 10:05:54 INFO: ✅ Database connection has been established successfully.
+2025-06-27 10:05:54 INFO: ✅ Database synced
+2025-06-27 10:05:54 INFO: 🚀 Server running on port 5000
+2025-06-27 10:11:03 INFO: ✅ Database connection has been established successfully.
+2025-06-27 10:11:03 INFO: ✅ Database synced
+2025-06-27 10:11:03 INFO: 🚀 Server running on port 5000
+2025-06-27 10:13:13 INFO: ✅ Database connection has been established successfully.
+2025-06-27 10:13:13 INFO: ✅ Database synced
+2025-06-27 10:13:13 INFO: 🚀 Server running on port 5000
+2025-06-27 11:18:43 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-06-27 11:18:43 ERROR: Error in submitArrivalCard: Validation error
+2025-06-27 11:18:51 INFO: New Arrival Card submission created:
+2025-06-27 11:30:59 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-06-27 11:30:59 ERROR: Error in submitArrivalCard: Validation error
+2025-06-27 12:57:27 ERROR: Error: Not Found - /api/v1/arrival-card/:33a59ba6-084b-4e14-a984-e02311efeed3, Status: 404, Path: /api/v1/arrival-card/:33a59ba6-084b-4e14-a984-e02311efeed3, Method: GET, Stack: Error: Not Found - /api/v1/arrival-card/:33a59ba6-084b-4e14-a984-e02311efeed3
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:57:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-27 12:57:36 ERROR: Error: Not Found - /api/v1/arrival-card/:id, Status: 404, Path: /api/v1/arrival-card/:id, Method: GET, Stack: Error: Not Found - /api/v1/arrival-card/:id
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:57:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-27 12:58:02 ERROR: Error: Not Found - /api/v1/arrival-card/:33a59ba6-084b-4e14-a984-e02311efeed3, Status: 404, Path: /api/v1/arrival-card/:33a59ba6-084b-4e14-a984-e02311efeed3, Method: GET, Stack: Error: Not Found - /api/v1/arrival-card/:33a59ba6-084b-4e14-a984-e02311efeed3
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:57:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-27 13:00:00 ERROR: Error: Not Found - /api/v1/arrival-card/:33a59ba6-084b-4e14-a984-e02311efeed3, Status: 404, Path: /api/v1/arrival-card/:33a59ba6-084b-4e14-a984-e02311efeed3, Method: GET, Stack: Error: Not Found - /api/v1/arrival-card/:33a59ba6-084b-4e14-a984-e02311efeed3
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-27 15:45:45 INFO: ✅ Database connection has been established successfully.
+2025-06-27 15:45:45 INFO: ✅ Database synced
+2025-06-27 15:45:45 INFO: 🚀 Server running on port 5000
+2025-06-27 15:45:53 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/:33a59ba6-084b-4e14-a984-e02311efeed3, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:102:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-06-27 15:49:03 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/%3C40262aab-0eb8-4e1b-a98e-b37c518c5a45%3E, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:102:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-06-27 15:49:09 INFO: Fetched Arrival Card details for ID: 40262aab-0eb8-4e1b-a98e-b37c518c5a45
+2025-06-27 15:49:33 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-06-27 15:51:02 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-06-27 15:51:10 INFO: Fetched Arrival Card details for ID: 40262aab-0eb8-4e1b-a98e-b37c518c5a45
+2025-06-27 16:05:44 INFO: ✅ Database connection has been established successfully.
+2025-06-27 16:05:44 INFO: ✅ Database synced
+2025-06-27 16:05:44 INFO: 🚀 Server running on port 5000
+2025-06-27 16:05:56 INFO: ✅ Database connection has been established successfully.
+2025-06-27 16:05:56 INFO: ✅ Database synced
+2025-06-27 16:05:56 INFO: 🚀 Server running on port 5000
+2025-06-27 16:06:00 INFO: ✅ Database connection has been established successfully.
+2025-06-27 16:06:00 INFO: ✅ Database synced
+2025-06-27 16:06:00 INFO: 🚀 Server running on port 5000
+2025-06-27 16:07:38 INFO: ✅ Database connection has been established successfully.
+2025-06-27 16:07:38 INFO: ✅ Database synced
+2025-06-27 16:07:38 INFO: 🚀 Server running on port 5000
+2025-06-27 16:10:20 INFO: ✅ Database connection has been established successfully.
+2025-06-27 16:10:20 INFO: ✅ Database synced
+2025-06-27 16:10:20 INFO: 🚀 Server running on port 5000
+2025-06-27 16:15:22 ERROR: Error in deleteArrivalCardSubmission: Arrival Card submission not found
+2025-06-27 16:15:22 ERROR: Error deleting Arrival Card: Arrival Card submission not found
+2025-06-27 16:15:22 ERROR: Error: Arrival Card submission not found, Status: 500, Path: /api/v1/arrival-card/40262aab-0eb8-4e1b-a98e-b37c518c5a45, Method: DELETE, Stack: Error: Arrival Card submission not found
+    at deleteArrivalCardSubmission (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\repositories\arrivalCardRepository.js:52:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async deleteArrivalCard (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:166:5)
+2025-06-27 16:16:21 ERROR: Error in deleteArrivalCardSubmission: Arrival Card submission not found
+2025-06-27 16:16:21 ERROR: Error deleting Arrival Card: Arrival Card submission not found
+2025-06-27 16:16:21 ERROR: Error: Arrival Card submission not found, Status: 500, Path: /api/v1/arrival-card/40262aab-0eb8-4e1b-a98e-b37c518c5a4, Method: DELETE, Stack: Error: Arrival Card submission not found
+    at deleteArrivalCardSubmission (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\repositories\arrivalCardRepository.js:52:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async deleteArrivalCard (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:166:5)
+2025-06-27 16:16:29 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-06-27 16:50:07 INFO: ✅ Database connection has been established successfully.
+2025-06-27 16:50:07 INFO: ✅ Database synced
+2025-06-27 16:50:07 INFO: 🚀 Server running on port 5000
+2025-06-27 16:50:54 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-06-30 09:17:31 ERROR: ❌ Unable to connect to DB or sync: 
+2025-06-30 09:18:16 INFO: ✅ Database connection has been established successfully.
+2025-06-30 09:18:16 INFO: ✅ Database synced
+2025-06-30 09:18:16 INFO: 🚀 Server running on port 5000
+2025-06-30 09:59:54 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/40262aab-0eb8-4e1b-a98e-b37c518c5a45, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:104:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-06-30 10:00:30 ERROR: Error: Not Found - /api/v1/33a59ba6-084b-4e14-a984-e02311efeed3, Status: 404, Path: /api/v1/33a59ba6-084b-4e14-a984-e02311efeed3, Method: GET, Stack: Error: Not Found - /api/v1/33a59ba6-084b-4e14-a984-e02311efeed3
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-30 10:00:48 ERROR: Error: Not Found - /api/v1/, Status: 404, Path: /api/v1/, Method: GET, Stack: Error: Not Found - /api/v1/
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-30 10:00:50 ERROR: Error: Not Found - /api/v1/, Status: 404, Path: /api/v1/, Method: GET, Stack: Error: Not Found - /api/v1/
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-30 10:02:10 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-06-30 10:02:54 INFO: Fetched Arrival Card details for ID: 33a59ba6-084b-4e14-a984-e02311efeed3
+2025-06-30 10:06:31 INFO: ✅ Database connection has been established successfully.
+2025-06-30 10:06:31 INFO: ✅ Database synced
+2025-06-30 10:06:31 INFO: 🚀 Server running on port 5000
+2025-06-30 10:06:34 INFO: ✅ Database connection has been established successfully.
+2025-06-30 10:06:34 INFO: ✅ Database synced
+2025-06-30 10:06:34 INFO: 🚀 Server running on port 5000
+2025-06-30 10:19:58 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-06-30 10:19:58 ERROR: Error in submitArrivalCard: Validation error
+2025-06-30 10:20:02 INFO: New Arrival Card submission created:
+2025-06-30 10:20:37 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-06-30 10:21:08 INFO: New Arrival Card submission created:
+2025-06-30 10:21:16 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-06-30 10:21:21 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-06-30 10:23:25 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-06-30 10:24:05 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-06-30 10:27:37 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-06-30 10:30:36 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-06-30 11:12:36 INFO: ✅ Database connection has been established successfully.
+2025-06-30 11:12:36 INFO: ✅ Database synced
+2025-06-30 11:12:36 INFO: 🚀 Server running on port 5000
+2025-06-30 11:16:33 INFO: Fetched Arrival Card details for ID: 33a59ba6-084b-4e14-a984-e02311efeed3
+2025-06-30 11:16:45 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-06-30 11:16:45 ERROR: Error in submitArrivalCard: Validation error
+2025-06-30 11:16:50 ERROR: Error in updateArrivalCardSubmission: Arrival Card submission not found
+2025-06-30 11:16:50 ERROR: Error updating Arrival Card: Arrival Card submission not found
+2025-06-30 11:16:50 ERROR: Error: Arrival Card submission not found, Status: 500, Path: /api/v1/arrival-card/40262aab-0eb8-4e1b-a98e-b37c518c5a45, Method: PUT, Stack: Error: Arrival Card submission not found
+    at updateArrivalCardSubmission (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\repositories\arrivalCardRepository.js:40:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async updateArrivalCard (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:151:21)
+2025-06-30 11:16:53 INFO: Fetched Arrival Card details for ID: 33a59ba6-084b-4e14-a984-e02311efeed3
+2025-06-30 13:08:39 INFO: ✅ Database connection has been established successfully.
+2025-06-30 13:08:39 INFO: ✅ Database synced
+2025-06-30 13:08:39 INFO: 🚀 Server running on port 5000
+2025-06-30 13:10:55 INFO: ✅ Database connection has been established successfully.
+2025-06-30 13:10:55 INFO: ✅ Database synced
+2025-06-30 13:10:55 INFO: 🚀 Server running on port 5000
+2025-06-30 13:12:55 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-06-30 13:15:07 INFO: ✅ Database connection has been established successfully.
+2025-06-30 13:15:07 INFO: ✅ Database synced
+2025-06-30 13:15:07 INFO: 🚀 Server running on port 5000
+2025-06-30 13:22:55 INFO: ✅ Database connection has been established successfully.
+2025-06-30 13:22:55 INFO: ✅ Database synced
+2025-06-30 13:22:55 INFO: 🚀 Server running on port 5000
+2025-06-30 13:23:20 INFO: ✅ Database connection has been established successfully.
+2025-06-30 13:23:20 INFO: ✅ Database synced
+2025-06-30 13:23:20 INFO: 🚀 Server running on port 5000
+2025-06-30 13:23:35 INFO: ✅ Database connection has been established successfully.
+2025-06-30 13:23:35 INFO: ✅ Database synced
+2025-06-30 13:23:35 INFO: 🚀 Server running on port 5000
+2025-06-30 13:25:49 INFO: ✅ Database connection has been established successfully.
+2025-06-30 13:25:49 INFO: ✅ Database synced
+2025-06-30 13:25:49 INFO: 🚀 Server running on port 5000
+2025-06-30 13:26:01 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-06-30 13:59:56 INFO: ✅ Database connection has been established successfully.
+2025-06-30 13:59:56 INFO: ✅ Database synced
+2025-06-30 13:59:56 INFO: 🚀 Server running on port 5000
+2025-06-30 14:00:13 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-06-30 14:00:30 ERROR: Error during admin login for user: 99747127aa@gmail.com. Error: username is not defined
+2025-06-30 14:00:30 ERROR: Error: username is not defined, Status: 500, Path: /api/admin/login, Method: POST, Stack: ReferenceError: username is not defined
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:64:66)
+2025-06-30 14:00:48 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-06-30 14:00:48 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-06-30 14:01:55 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:104:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-06-30 14:02:10 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:104:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-06-30 14:02:21 ERROR: Error in deleteArrivalCardSubmission: Arrival Card submission not found
+2025-06-30 14:02:21 ERROR: Error deleting Arrival Card: Arrival Card submission not found
+2025-06-30 14:02:21 ERROR: Error: Arrival Card submission not found, Status: 500, Path: /api/v1/arrival-card/5, Method: DELETE, Stack: Error: Arrival Card submission not found
+    at deleteArrivalCardSubmission (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\repositories\arrivalCardRepository.js:52:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async deleteArrivalCard (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:166:5)
+2025-06-30 14:03:10 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-06-30 14:03:23 ERROR: Error in deleteArrivalCardSubmission: Arrival Card submission not found
+2025-06-30 14:03:23 ERROR: Error deleting Arrival Card: Arrival Card submission not found
+2025-06-30 14:03:23 ERROR: Error: Arrival Card submission not found, Status: 500, Path: /api/v1/arrival-card/5, Method: DELETE, Stack: Error: Arrival Card submission not found
+    at deleteArrivalCardSubmission (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\repositories\arrivalCardRepository.js:52:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async deleteArrivalCard (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:166:5)
+2025-06-30 14:03:26 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-06-30 14:04:07 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:104:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-06-30 14:04:15 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/3, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:104:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-06-30 14:05:30 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-06-30 14:05:30 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-06-30 14:09:39 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-06-30 14:11:00 INFO: New Arrival Card submission created:
+2025-06-30 14:11:05 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-06-30 14:13:17 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-06-30 14:13:24 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-06-30 14:13:27 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-06-30 14:14:30 INFO: New Arrival Card submission created:
+2025-06-30 14:14:34 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-06-30 14:17:07 ERROR: Error in deleteArrivalCardSubmission: Arrival Card submission not found
+2025-06-30 14:17:07 ERROR: Error deleting Arrival Card: Arrival Card submission not found
+2025-06-30 14:17:07 ERROR: Error: Arrival Card submission not found, Status: 500, Path: /api/v1/arrival-card/7, Method: DELETE, Stack: Error: Arrival Card submission not found
+    at deleteArrivalCardSubmission (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\repositories\arrivalCardRepository.js:52:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async deleteArrivalCard (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:166:5)
+2025-06-30 14:17:12 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-06-30 14:18:01 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/6, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:104:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-06-30 15:03:48 INFO: ✅ Database connection has been established successfully.
+2025-06-30 15:03:48 INFO: ✅ Database synced
+2025-06-30 15:03:48 INFO: 🚀 Server running on port 5000
+2025-06-30 15:09:39 INFO: ✅ Database connection has been established successfully.
+2025-06-30 15:09:39 INFO: ✅ Database synced
+2025-06-30 15:09:39 INFO: 🚀 Server running on port 5000
+2025-06-30 15:11:03 INFO: New Arrival Card submission created:
+2025-06-30 15:11:36 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-06-30 15:20:00 INFO: ✅ Database connection has been established successfully.
+2025-06-30 15:20:00 INFO: ✅ Database synced
+2025-06-30 15:20:00 INFO: 🚀 Server running on port 5000
+2025-06-30 15:20:26 INFO: ✅ Database connection has been established successfully.
+2025-06-30 15:20:26 INFO: ✅ Database synced
+2025-06-30 15:20:26 INFO: 🚀 Server running on port 5000
+2025-06-30 15:21:59 INFO: ✅ Database connection has been established successfully.
+2025-06-30 15:21:59 INFO: ✅ Database synced
+2025-06-30 15:21:59 INFO: 🚀 Server running on port 5000
+2025-06-30 15:22:27 INFO: New Arrival Card submission created:
+2025-06-30 15:28:28 INFO: ✅ Database connection has been established successfully.
+2025-06-30 15:28:28 INFO: ✅ Database synced
+2025-06-30 15:28:28 INFO: 🚀 Server running on port 5000
+2025-06-30 15:28:42 INFO: ✅ Database connection has been established successfully.
+2025-06-30 15:28:42 INFO: ✅ Database synced
+2025-06-30 15:28:42 INFO: 🚀 Server running on port 5000
+2025-06-30 15:33:29 INFO: ✅ Database connection has been established successfully.
+2025-06-30 15:33:29 INFO: ✅ Database synced
+2025-06-30 15:33:29 INFO: 🚀 Server running on port 5000
+2025-06-30 15:35:23 INFO: ✅ Database connection has been established successfully.
+2025-06-30 15:35:23 INFO: ✅ Database synced
+2025-06-30 15:35:23 INFO: 🚀 Server running on port 5000
+2025-06-30 16:07:18 INFO: ✅ Database connection has been established successfully.
+2025-06-30 16:07:18 INFO: ✅ Database synced
+2025-06-30 16:07:18 INFO: 🚀 Server running on port 5000
+2025-06-30 16:08:39 INFO: New Arrival Card submission created:
+2025-06-30 16:16:24 INFO: ✅ Database connection has been established successfully.
+2025-06-30 16:16:24 INFO: ✅ Database synced
+2025-06-30 16:16:24 INFO: 🚀 Server running on port 5000
+2025-06-30 16:17:00 INFO: New Arrival Card submission created:
+2025-06-30 16:19:35 INFO: New Arrival Card submission created:
+2025-06-30 16:21:51 INFO: New Arrival Card submission created:
+2025-06-30 16:22:19 INFO: ✅ Database connection has been established successfully.
+2025-06-30 16:22:19 INFO: ✅ Database synced
+2025-06-30 16:22:19 INFO: 🚀 Server running on port 5000
+2025-06-30 16:22:54 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-06-30 16:43:02 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-06-30 16:52:54 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-06-30 16:54:48 INFO: ✅ Database connection has been established successfully.
+2025-06-30 16:54:48 INFO: ✅ Database synced
+2025-06-30 16:54:48 INFO: 🚀 Server running on port 5000
+2025-06-30 16:55:14 INFO: ✅ Database connection has been established successfully.
+2025-06-30 16:55:14 INFO: ✅ Database synced
+2025-06-30 16:55:14 INFO: 🚀 Server running on port 5000
+2025-06-30 17:03:19 INFO: ✅ Database connection has been established successfully.
+2025-06-30 17:03:19 INFO: ✅ Database synced
+2025-06-30 17:03:19 INFO: 🚀 Server running on port 5000
+2025-06-30 17:06:46 INFO: ✅ Database connection has been established successfully.
+2025-06-30 17:06:46 INFO: ✅ Database synced
+2025-06-30 17:06:46 INFO: 🚀 Server running on port 5000
+2025-06-30 17:06:57 ERROR: Error: Not Found - /, Status: 404, Path: /, Method: GET, Stack: Error: Not Found - /
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-30 17:06:58 ERROR: Error: Not Found - /favicon.ico, Status: 404, Path: /favicon.ico, Method: GET, Stack: Error: Not Found - /favicon.ico
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-30 17:08:35 INFO: ✅ Database connection has been established successfully.
+2025-06-30 17:08:35 INFO: ✅ Database synced
+2025-06-30 17:08:35 INFO: 🚀 Server running on port 5000
+2025-06-30 17:12:40 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-06-30 17:12:40 ERROR: Error in submitArrivalCard: Validation error
+2025-06-30 17:12:42 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-06-30 17:12:42 ERROR: Error in submitArrivalCard: Validation error
+2025-06-30 17:14:44 INFO: ✅ Database connection has been established successfully.
+2025-06-30 17:14:44 INFO: ✅ Database synced
+2025-06-30 17:14:44 INFO: 🚀 Server running on port 5000
+2025-06-30 17:16:39 INFO: ✅ Database connection has been established successfully.
+2025-06-30 17:16:39 INFO: ✅ Database synced
+2025-06-30 17:16:39 INFO: 🚀 Server running on port 5000
+2025-06-30 17:18:15 INFO: ✅ Database connection has been established successfully.
+2025-06-30 17:18:15 INFO: ✅ Database synced
+2025-06-30 17:18:15 INFO: 🚀 Server running on port 5000
+2025-06-30 17:18:41 ERROR: Error: Not Found - /api/test, Status: 404, Path: /api/test, Method: GET, Stack: Error: Not Found - /api/test
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:276:14)
+    at Function.handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:186:3)
+    at router (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:60:12)
+2025-06-30 17:18:50 ERROR: Error: Not Found - /test, Status: 404, Path: /test, Method: GET, Stack: Error: Not Found - /test
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-06-30 17:20:29 INFO: ✅ Database connection has been established successfully.
+2025-06-30 17:20:29 INFO: ✅ Database synced
+2025-06-30 17:20:29 INFO: 🚀 Server running on port 5000
+2025-06-30 17:22:31 INFO: ✅ Database connection has been established successfully.
+2025-06-30 17:22:31 INFO: ✅ Database synced
+2025-06-30 17:22:31 INFO: 🚀 Server running on port 5000
+2025-06-30 17:23:13 INFO: ✅ Database connection has been established successfully.
+2025-06-30 17:23:13 INFO: ✅ Database synced
+2025-06-30 17:23:13 INFO: 🚀 Server running on port 5000
+2025-06-30 17:23:14 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-06-30 17:23:17 INFO: Fetched Arrival Card details for ID: 33a59ba6-084b-4e14-a984-e02311efeed3
+2025-06-30 17:23:28 INFO: ✅ Database connection has been established successfully.
+2025-06-30 17:23:28 INFO: ✅ Database synced
+2025-06-30 17:23:28 INFO: 🚀 Server running on port 5000
+2025-06-30 17:23:32 INFO: ✅ Database connection has been established successfully.
+2025-06-30 17:23:32 INFO: ✅ Database synced
+2025-06-30 17:23:32 INFO: 🚀 Server running on port 5000
+2025-06-30 17:23:56 INFO: ✅ Database connection has been established successfully.
+2025-06-30 17:23:56 INFO: ✅ Database synced
+2025-06-30 17:23:56 INFO: 🚀 Server running on port 5000
+2025-06-30 17:23:57 INFO: ✅ Database connection has been established successfully.
+2025-06-30 17:23:57 INFO: ✅ Database synced
+2025-06-30 17:23:57 INFO: 🚀 Server running on port 5000
+2025-06-30 17:24:04 INFO: Fetched Arrival Card details for ID: 33a59ba6-084b-4e14-a984-e02311efeed3
+2025-06-30 17:24:09 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-06-30 17:24:22 INFO: ✅ Database connection has been established successfully.
+2025-06-30 17:24:22 INFO: ✅ Database synced
+2025-06-30 17:24:22 INFO: 🚀 Server running on port 5000
+2025-06-30 17:25:38 INFO: ✅ Database connection has been established successfully.
+2025-06-30 17:25:38 INFO: ✅ Database synced
+2025-06-30 17:25:38 INFO: 🚀 Server running on port 5000
+2025-06-30 17:25:51 INFO: ✅ Database connection has been established successfully.
+2025-06-30 17:25:51 INFO: ✅ Database synced
+2025-06-30 17:25:51 INFO: 🚀 Server running on port 5000
+2025-06-30 17:25:54 INFO: ✅ Database connection has been established successfully.
+2025-06-30 17:25:54 INFO: ✅ Database synced
+2025-06-30 17:25:54 INFO: 🚀 Server running on port 5000
+2025-06-30 17:29:12 INFO: ✅ Database connection has been established successfully.
+2025-06-30 17:29:12 INFO: ✅ Database synced
+2025-06-30 17:29:12 INFO: 🚀 Server running on port 5000
+2025-06-30 17:29:31 INFO: ✅ Database connection has been established successfully.
+2025-06-30 17:29:31 INFO: ✅ Database synced
+2025-06-30 17:29:31 INFO: 🚀 Server running on port 5000
+2025-06-30 17:37:38 INFO: ✅ Database connection has been established successfully.
+2025-06-30 17:37:38 INFO: ✅ Database synced
+2025-06-30 17:37:38 INFO: 🚀 Server running on port 5000
+2025-07-01 08:14:28 ERROR: ❌ Unable to connect to DB or sync: 
+2025-07-01 08:15:23 INFO: ✅ Database connection has been established successfully.
+2025-07-01 08:15:23 INFO: ✅ Database synced
+2025-07-01 08:15:23 INFO: 🚀 Server running on port 5000
+2025-07-01 08:48:32 ERROR: Error: Not Found - /favicon.ico, Status: 404, Path: /favicon.ico, Method: GET, Stack: Error: Not Found - /favicon.ico
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-07-01 09:12:07 INFO: ✅ Database connection has been established successfully.
+2025-07-01 09:12:07 INFO: ✅ Database synced
+2025-07-01 09:12:07 INFO: 🚀 Server running on port 5000
+2025-07-01 09:12:53 INFO: ✅ Database connection has been established successfully.
+2025-07-01 09:12:53 INFO: ✅ Database synced
+2025-07-01 09:12:53 INFO: 🚀 Server running on port 5000
+2025-07-01 09:13:01 INFO: ✅ Database connection has been established successfully.
+2025-07-01 09:13:01 INFO: ✅ Database synced
+2025-07-01 09:13:01 INFO: 🚀 Server running on port 5000
+2025-07-01 09:34:53 INFO: ✅ Database connection has been established successfully.
+2025-07-01 09:34:53 INFO: ✅ Database synced
+2025-07-01 09:34:53 INFO: 🚀 Server running on port 5000
+2025-07-01 09:34:54 INFO: ✅ Database connection has been established successfully.
+2025-07-01 09:34:54 INFO: ✅ Database synced
+2025-07-01 09:34:54 INFO: 🚀 Server running on port 5000
+2025-07-01 09:34:58 INFO: ✅ Database connection has been established successfully.
+2025-07-01 09:34:58 INFO: ✅ Database synced
+2025-07-01 09:34:58 INFO: 🚀 Server running on port 5000
+2025-07-01 09:36:04 INFO: ✅ Database connection has been established successfully.
+2025-07-01 09:36:04 INFO: ✅ Database synced
+2025-07-01 09:36:04 INFO: 🚀 Server running on port 5000
+2025-07-01 09:36:21 INFO: ✅ Database connection has been established successfully.
+2025-07-01 09:36:21 INFO: ✅ Database synced
+2025-07-01 09:36:21 INFO: 🚀 Server running on port 5000
+2025-07-01 09:36:34 INFO: New Arrival Card submission created:
+2025-07-01 10:00:50 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-07-01 10:00:50 ERROR: Error in submitArrivalCard: Validation error
+2025-07-01 10:01:02 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-07-01 10:01:02 ERROR: Error in submitArrivalCard: Validation error
+2025-07-01 10:01:26 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-07-01 10:01:26 ERROR: Error in submitArrivalCard: Validation error
+2025-07-01 10:01:54 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-07-01 10:01:54 ERROR: Error in submitArrivalCard: Validation error
+2025-07-01 10:02:35 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-07-01 10:02:35 ERROR: Error in submitArrivalCard: Validation error
+2025-07-01 10:03:37 INFO: New Arrival Card submission created:
+2025-07-01 10:07:09 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-07-01 10:07:09 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-01 10:07:27 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-07-01 10:07:27 ERROR: Error in submitArrivalCard: Validation error
+2025-07-01 10:07:37 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-01 10:07:52 INFO: New Arrival Card submission created:
+2025-07-01 10:07:54 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-01 10:08:01 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-01 10:08:02 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-01 10:08:03 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-01 10:08:03 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-01 10:08:03 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-01 10:08:03 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-01 10:08:04 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-01 10:08:04 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-01 10:08:04 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-01 10:09:05 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-01 10:09:10 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-01 10:10:15 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-01 10:13:50 INFO: New Arrival Card submission created:
+2025-07-01 10:13:53 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-01 10:22:21 INFO: New Arrival Card submission created:
+2025-07-01 10:34:17 INFO: New Arrival Card submission created:
+2025-07-01 12:47:35 INFO: New Arrival Card submission created:
+2025-07-01 13:48:18 INFO: New Arrival Card submission created:
+2025-07-01 13:54:59 INFO: New Arrival Card submission created:
+2025-07-01 13:59:42 INFO: New Arrival Card submission created:
+2025-07-01 13:59:56 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-07-01 13:59:56 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-01 13:59:58 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-01 14:12:20 INFO: ✅ Database connection has been established successfully.
+2025-07-01 14:12:20 INFO: ✅ Database synced
+2025-07-01 14:12:20 INFO: 🚀 Server running on port 5000
+2025-07-01 14:15:01 INFO: ✅ Database connection has been established successfully.
+2025-07-01 14:15:01 INFO: ✅ Database synced
+2025-07-01 14:15:01 INFO: 🚀 Server running on port 5000
+2025-07-01 14:16:01 INFO: ✅ Database connection has been established successfully.
+2025-07-01 14:16:01 INFO: ✅ Database synced
+2025-07-01 14:16:01 INFO: 🚀 Server running on port 5000
+2025-07-01 14:16:05 INFO: ✅ Database connection has been established successfully.
+2025-07-01 14:16:05 INFO: ✅ Database synced
+2025-07-01 14:16:05 INFO: 🚀 Server running on port 5000
+2025-07-01 14:16:09 INFO: ✅ Database connection has been established successfully.
+2025-07-01 14:16:09 INFO: ✅ Database synced
+2025-07-01 14:16:09 INFO: 🚀 Server running on port 5000
+2025-07-01 14:22:40 INFO: ✅ Database connection has been established successfully.
+2025-07-01 14:22:40 INFO: ✅ Database synced
+2025-07-01 14:22:40 INFO: 🚀 Server running on port 5000
+2025-07-01 14:22:45 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-07-01 14:22:45 ERROR: Error in submitArrivalCard: Validation error
+2025-07-01 14:22:57 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-07-01 14:22:57 ERROR: Error in submitArrivalCard: Validation error
+2025-07-01 14:24:39 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-07-01 14:24:39 ERROR: Error in submitArrivalCard: Validation error
+2025-07-01 14:24:40 ERROR: Error in createArrivalCardSubmission: Validation error
+2025-07-01 14:24:40 ERROR: Error in submitArrivalCard: Validation error
+2025-07-01 14:24:54 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-01 14:24:57 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-01 14:25:25 INFO: New Arrival Card submission created:
+2025-07-01 14:30:10 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:30:33 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:31:05 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:31:52 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:32:14 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:33:01 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:33:04 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:33:50 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:34:29 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:35:04 INFO: ✅ Database connection has been established successfully.
+2025-07-01 14:35:04 INFO: ✅ Database synced
+2025-07-01 14:35:04 INFO: 🚀 Server running on port 5000
+2025-07-01 14:35:09 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:35:11 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:35:12 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:36:31 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:52:19 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:52:37 INFO: ✅ Database connection has been established successfully.
+2025-07-01 14:52:37 INFO: ✅ Database synced
+2025-07-01 14:52:37 INFO: 🚀 Server running on port 5000
+2025-07-01 14:52:40 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 14:53:07 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-01 15:00:43 INFO: New Arrival Card submission created:
+2025-07-01 15:29:16 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-01 15:29:17 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-01 15:29:18 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-01 15:29:18 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-01 15:29:43 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-01 16:28:57 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-01 17:52:10 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-02 08:46:28 INFO: ✅ Database connection has been established successfully.
+2025-07-02 08:46:28 INFO: ✅ Database synced
+2025-07-02 08:46:28 INFO: 🚀 Server running on port 5000
+2025-07-02 08:54:11 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-07-02 08:54:11 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-02 13:36:26 INFO: ✅ Database connection has been established successfully.
+2025-07-02 13:36:26 INFO: ✅ Database synced
+2025-07-02 13:36:26 INFO: 🚀 Server running on port 5000
+2025-07-02 13:42:29 INFO: New Arrival Card submission created:
+2025-07-02 13:44:36 INFO: New Arrival Card submission created:
+2025-07-02 13:50:09 INFO: ✅ Database connection has been established successfully.
+2025-07-02 13:50:09 INFO: ✅ Database synced
+2025-07-02 13:50:09 INFO: 🚀 Server running on port 5000
+2025-07-02 13:51:17 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-07-02 13:51:17 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-02 13:51:19 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-02 13:51:19 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-02 13:51:20 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-02 13:51:20 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-02 13:51:20 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-02 13:51:20 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-02 14:03:27 INFO: ✅ Database connection has been established successfully.
+2025-07-02 14:03:27 INFO: ✅ Database synced
+2025-07-02 14:03:27 INFO: 🚀 Server running on port 5000
+2025-07-02 14:04:27 INFO: New Arrival Card submission created:
+2025-07-02 14:04:44 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-02 14:05:12 INFO: ✅ Database connection has been established successfully.
+2025-07-02 14:05:12 INFO: ✅ Database synced
+2025-07-02 14:05:12 INFO: 🚀 Server running on port 5000
+2025-07-02 14:15:54 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-02 14:16:03 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-02 14:17:52 INFO: New Arrival Card submission created:
+2025-07-02 14:17:58 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-02 14:18:49 INFO: New Arrival Card submission created:
+2025-07-02 14:18:58 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-02 14:19:36 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-02 14:19:38 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-02 15:30:31 INFO: ✅ Database connection has been established successfully.
+2025-07-02 15:30:31 INFO: ✅ Database synced
+2025-07-02 15:30:31 INFO: 🚀 Server running on port 5000
+2025-07-02 15:31:05 INFO: File uploaded: 1751445065398-638995919-WhatsApp Image 2025-06-13 at 08.02.35.jpeg
+2025-07-02 15:31:05 INFO: New Arrival Card submission created:
+2025-07-02 15:31:18 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-02 15:31:21 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-02 15:37:13 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-02 15:38:47 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-02 15:40:37 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-02 15:40:59 INFO: New Arrival Card submission created:
+2025-07-02 15:41:05 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-02 15:43:55 INFO: New Arrival Card submission created:
+2025-07-02 15:47:52 INFO: File uploaded: 1751446072131-413346538-WhatsApp Image 2025-06-13 at 08.02.35.jpeg
+2025-07-02 15:47:52 INFO: New Arrival Card submission created:
+2025-07-02 15:48:08 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-02 15:54:54 INFO: File uploaded: 1751446494044-878282686-b1531aeb-8cb4-4c14-8c04-10308e59aa0d.jpg
+2025-07-02 15:54:54 INFO: New Arrival Card submission created:
+2025-07-03 09:04:16 ERROR: ❌ Unable to connect to DB or sync: 
+2025-07-03 09:04:50 INFO: ✅ Database connection has been established successfully.
+2025-07-03 09:04:50 INFO: ✅ Database synced
+2025-07-03 09:04:50 INFO: 🚀 Server running on port 5000
+2025-07-03 09:32:42 INFO: ✅ Database connection has been established successfully.
+2025-07-03 09:32:42 INFO: ✅ Database synced
+2025-07-03 09:32:42 INFO: 🚀 Server running on port 5000
+2025-07-03 09:34:03 INFO: File uploaded: 1751510043432-922674009-Travel and work in Thailand_Register for TDAC easily (1).png
+2025-07-03 09:34:03 INFO: New Arrival Card submission created:
+2025-07-03 09:36:41 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-07-03 09:36:41 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 09:39:06 INFO: File uploaded: 1751510346817-896632414-Image (1).jpg
+2025-07-03 09:39:06 INFO: New Arrival Card submission created:
+2025-07-03 09:39:12 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 09:39:55 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 09:40:12 ERROR: Error in deleteArrivalCardSubmission: Arrival Card submission not found
+2025-07-03 09:40:12 ERROR: Error deleting Arrival Card: Arrival Card submission not found
+2025-07-03 09:40:12 ERROR: Error: Arrival Card submission not found, Status: 500, Path: /api/v1/arrival-card/1, Method: DELETE, Stack: Error: Arrival Card submission not found
+    at deleteArrivalCardSubmission (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\repositories\arrivalCardRepository.js:54:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async deleteArrivalCard (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:178:5)
+2025-07-03 09:40:16 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 09:40:20 ERROR: Error in deleteArrivalCardSubmission: Arrival Card submission not found
+2025-07-03 09:40:20 ERROR: Error deleting Arrival Card: Arrival Card submission not found
+2025-07-03 09:40:20 ERROR: Error: Arrival Card submission not found, Status: 500, Path: /api/v1/arrival-card/1, Method: DELETE, Stack: Error: Arrival Card submission not found
+    at deleteArrivalCardSubmission (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\repositories\arrivalCardRepository.js:54:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async deleteArrivalCard (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:178:5)
+2025-07-03 09:40:55 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 09:52:08 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 09:54:51 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/33a59ba6-084b-4e14-a984-e02311efeed3, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 09:55:10 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-03 10:17:38 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 10:18:43 INFO: ✅ Database connection has been established successfully.
+2025-07-03 10:18:43 INFO: ✅ Database synced
+2025-07-03 10:18:43 INFO: 🚀 Server running on port 5000
+2025-07-03 10:18:59 INFO: ✅ Database connection has been established successfully.
+2025-07-03 10:18:59 INFO: ✅ Database synced
+2025-07-03 10:18:59 INFO: 🚀 Server running on port 5000
+2025-07-03 10:21:52 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 10:30:31 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 10:35:42 ERROR: Error: Not Found - /favicon.ico, Status: 404, Path: /favicon.ico, Method: GET, Stack: Error: Not Found - /favicon.ico
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-07-03 10:38:12 INFO: File uploaded: 1751513892975-129797152-e44b976a-7541-42e9-8e48-f944a62b6917.jpg
+2025-07-03 10:38:13 INFO: New Arrival Card submission created:
+2025-07-03 10:38:16 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 10:44:06 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 10:51:41 INFO: ✅ Database connection has been established successfully.
+2025-07-03 10:51:41 INFO: ✅ Database synced
+2025-07-03 10:51:41 INFO: 🚀 Server running on port 5000
+2025-07-03 10:51:51 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 10:52:51 INFO: File uploaded: 1751514770981-711012145-b1531aeb-8cb4-4c14-8c04-10308e59aa0d.jpg
+2025-07-03 10:52:51 INFO: New Arrival Card submission created:
+2025-07-03 10:52:54 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 10:54:14 INFO: ✅ Database connection has been established successfully.
+2025-07-03 10:54:14 INFO: ✅ Database synced
+2025-07-03 10:54:14 INFO: 🚀 Server running on port 5000
+2025-07-03 10:54:41 INFO: ✅ Database connection has been established successfully.
+2025-07-03 10:54:41 INFO: ✅ Database synced
+2025-07-03 10:54:41 INFO: 🚀 Server running on port 5000
+2025-07-03 10:55:29 INFO: ✅ Database connection has been established successfully.
+2025-07-03 10:55:29 INFO: ✅ Database synced
+2025-07-03 10:55:29 INFO: 🚀 Server running on port 5000
+2025-07-03 10:56:21 INFO: ✅ Database connection has been established successfully.
+2025-07-03 10:56:21 INFO: ✅ Database synced
+2025-07-03 10:56:21 INFO: 🚀 Server running on port 5000
+2025-07-03 10:58:18 INFO: ✅ Database connection has been established successfully.
+2025-07-03 10:58:18 INFO: ✅ Database synced
+2025-07-03 10:58:18 INFO: 🚀 Server running on port 5000
+2025-07-03 11:07:22 INFO: ✅ Database connection has been established successfully.
+2025-07-03 11:07:23 INFO: ✅ Database synced
+2025-07-03 11:07:23 INFO: 🚀 Server running on port 5000
+2025-07-03 11:07:35 INFO: ✅ Database connection has been established successfully.
+2025-07-03 11:07:35 INFO: ✅ Database synced
+2025-07-03 11:07:35 INFO: 🚀 Server running on port 5000
+2025-07-03 11:11:15 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 11:11:52 INFO: ✅ Database connection has been established successfully.
+2025-07-03 11:11:52 INFO: ✅ Database synced
+2025-07-03 11:11:52 INFO: 🚀 Server running on port 5000
+2025-07-03 11:29:09 ERROR: Error: Not Found - /favicon.ico, Status: 404, Path: /favicon.ico, Method: GET, Stack: Error: Not Found - /favicon.ico
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+2025-07-03 12:51:17 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 12:52:31 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 12:53:05 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-07-03 12:53:05 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 12:53:11 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 13:16:46 INFO: ✅ Database connection has been established successfully.
+2025-07-03 13:16:46 INFO: ✅ Database synced
+2025-07-03 13:16:46 INFO: 🚀 Server running on port 5000
+2025-07-03 13:17:09 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 13:18:27 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-03 13:19:06 INFO: ✅ Database connection has been established successfully.
+2025-07-03 13:19:06 INFO: ✅ Database synced
+2025-07-03 13:19:06 INFO: 🚀 Server running on port 5000
+2025-07-03 13:19:28 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-03 13:20:07 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-03 13:20:35 INFO: ✅ Database connection has been established successfully.
+2025-07-03 13:20:35 INFO: ✅ Database synced
+2025-07-03 13:20:35 INFO: 🚀 Server running on port 5000
+2025-07-03 13:21:05 ERROR: Error in submitArrivalCard: Cannot destructure property 'firstName' of 'req.body' as it is undefined.
+2025-07-03 13:22:48 INFO: ✅ Database connection has been established successfully.
+2025-07-03 13:22:48 INFO: ✅ Database synced
+2025-07-03 13:22:48 INFO: 🚀 Server running on port 5000
+2025-07-03 13:22:54 INFO: ✅ Database connection has been established successfully.
+2025-07-03 13:22:54 INFO: ✅ Database synced
+2025-07-03 13:22:54 INFO: 🚀 Server running on port 5000
+2025-07-03 13:23:22 INFO: ✅ Database connection has been established successfully.
+2025-07-03 13:23:22 INFO: ✅ Database synced
+2025-07-03 13:23:22 INFO: 🚀 Server running on port 5000
+2025-07-03 13:23:29 INFO: File uploaded: 1751523809636-258500605-WhatsApp Image 2025-06-13 at 08.02.35.jpeg
+2025-07-03 13:23:29 INFO: New Arrival Card submission created:
+2025-07-03 13:23:42 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 13:23:55 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)

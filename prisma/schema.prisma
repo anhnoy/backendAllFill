@@ -1,0 +1,48 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL="mysql://root@localhost:3306/allfill")
+}
+
+model User {a
+  id       Int    @id @default(autoincrement())
+  name     String
+  email    String @unique
+  password String
+}
+// prisma/schema.prisma
+model ArrivalCardSubmission {
+  id                       String    @id @default(uuid()) // Primary key, auto-generated UUID
+  firstName                String
+  lastName                 String
+  occupation               String
+  nationality              String
+  passportNo               String    @unique // Passport number should be unique
+  dateOfBirth              DateTime // Store as DateTime for proper date handling
+  gender                   String
+  countryOfResidence       String
+  phoneNo                  String
+  visaNo                   String?   // Optional field, marked with ?
+  cityOfResidence          String
+  dateOfArrival            DateTime
+  countryOfBoarded         String
+  purposeOfTravel          String
+  modeOfTravel             String    // e.g., Air, Land, Sea
+  modeOfTransport          String?   // e.g., Flight, Vehicle, Vessel
+  flightNo                 String?   // Optional, if modeOfTransport is Flight
+  vehicleNo                String?   // Optional, if modeOfTransport is Vehicle
+  vesselNo                 String?   // Optional, if modeOfTransport is Vessel
+  isTransit                Boolean   @default(false) // "I am a transit passenger..."
+  typeOfAccommodation      String?   // Optional if transit, required otherwise
+  province                 String?   // Optional if transit, required otherwise
+  address                  String?   // Optional if transit, required otherwise
+  paymentSlipUrl           String?   // URL to the uploaded payment slip
+  createdAt                DateTime  @default(now())
+  updatedAt                DateTime  @updatedAt
+
+  // Add indexes or relations if needed
+  @@map("arrival_card_submissions") // Optional: map to a specific table name
+}
