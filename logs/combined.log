@@ -1569,3 +1569,849 @@ notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
 2025-07-03 13:23:55 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
     at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 14:04:10 INFO: ✅ Database connection has been established successfully.
+2025-07-03 14:04:10 INFO: ✅ Database synced
+2025-07-03 14:04:10 INFO: 🚀 Server running on port 5000
+2025-07-03 14:04:13 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-07-03 14:04:13 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 14:04:43 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 14:45:27 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 14:45:47 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 14:47:15 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 14:47:20 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 14:47:28 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 14:50:05 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 14:50:08 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 14:50:18 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 14:50:32 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/2, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 14:50:34 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/2, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 14:54:44 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 14:54:45 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 14:54:49 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 14:54:55 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 14:54:59 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 14:55:05 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 14:55:13 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 14:55:18 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 14:59:50 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-03 15:01:38 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 15:01:50 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 15:02:21 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 15:10:07 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 15:10:10 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 15:10:32 INFO: ✅ Database connection has been established successfully.
+2025-07-03 15:10:32 INFO: ✅ Database synced
+2025-07-03 15:10:32 INFO: 🚀 Server running on port 5000
+2025-07-03 15:10:57 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 15:37:55 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 15:40:14 ERROR: Error: Not Found - /uploads/1751510346817-896632414-Image, Status: 404, Path: /uploads/1751510346817-896632414-Image, Method: GET, Stack: Error: Not Found - /uploads/1751510346817-896632414-Image
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at SendStream.error (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\serve-static\index.js:120:7)
+    at SendStream.emit (node:events:519:28)
+    at SendStream.error (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\send\index.js:168:17)
+    at SendStream.onStatError (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\send\index.js:315:12)
+2025-07-03 15:41:19 ERROR: Error: Not Found - /uploads/1751510346817-896632414-Image, Status: 404, Path: /uploads/1751510346817-896632414-Image, Method: GET, Stack: Error: Not Found - /uploads/1751510346817-896632414-Image
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at SendStream.error (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\serve-static\index.js:120:7)
+    at SendStream.emit (node:events:519:28)
+    at SendStream.error (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\send\index.js:168:17)
+    at SendStream.onStatError (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\send\index.js:315:12)
+2025-07-03 15:41:21 ERROR: Error: Not Found - /uploads/1751510346817-896632414-Image, Status: 404, Path: /uploads/1751510346817-896632414-Image, Method: GET, Stack: Error: Not Found - /uploads/1751510346817-896632414-Image
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at SendStream.error (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\serve-static\index.js:120:7)
+    at SendStream.emit (node:events:519:28)
+    at SendStream.error (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\send\index.js:168:17)
+    at SendStream.onStatError (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\send\index.js:315:12)
+2025-07-03 15:46:40 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 15:52:20 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 16:29:11 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 16:45:09 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 17:02:01 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-03 17:02:44 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-07-03 17:02:44 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 17:04:43 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 17:04:53 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-07-03 17:04:53 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 17:04:58 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 17:09:02 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 17:09:08 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 17:09:14 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 17:09:16 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 17:11:28 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 17:11:35 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 17:11:35 INFO: Fetched Arrival Card details for ID: 75d84357-6fe3-4270-991a-4f147c393300
+2025-07-03 17:13:01 ERROR: Error during admin login for user: 99747127aa@gmail.com. Error: username is not defined
+2025-07-03 17:13:01 ERROR: Error: username is not defined, Status: 500, Path: /api/admin/login, Method: POST, Stack: ReferenceError: username is not defined
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:61:66)
+2025-07-03 17:13:11 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-07-03 17:13:11 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 17:13:18 INFO: Fetched Arrival Card details for ID: 75d84357-6fe3-4270-991a-4f147c393300
+2025-07-03 17:13:26 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 17:13:41 INFO: Fetched Arrival Card details for ID: 75d84357-6fe3-4270-991a-4f147c393300
+2025-07-03 17:13:54 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 17:14:01 INFO: Fetched Arrival Card details for ID: 75d84357-6fe3-4270-991a-4f147c393300
+2025-07-03 17:14:43 INFO: Fetched Arrival Card details for ID: 75d84357-6fe3-4270-991a-4f147c393300
+2025-07-03 17:14:53 INFO: Fetched Arrival Card details for ID: 75d84357-6fe3-4270-991a-4f147c393300
+2025-07-03 17:19:14 INFO: Fetched Arrival Card details for ID: 75d84357-6fe3-4270-991a-4f147c393300
+2025-07-03 17:22:29 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 17:22:39 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 17:22:50 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 17:24:03 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 17:24:13 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 17:28:18 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 17:28:29 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 17:28:37 INFO: Fetched Arrival Card details for ID: d212bf92-d15a-4860-8ea2-4609036269be
+2025-07-03 17:28:48 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 17:31:04 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 17:35:56 INFO: Fetched Arrival Card details for ID: 07c1da57-f1ee-4ac7-b149-bb0ebf3d880c
+2025-07-03 17:36:05 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-03 17:36:39 INFO: ✅ Database connection has been established successfully.
+2025-07-03 17:36:39 INFO: ✅ Database synced
+2025-07-03 17:36:39 INFO: 🚀 Server running on port 5000
+2025-07-04 08:24:16 INFO: ✅ Database connection has been established successfully.
+2025-07-04 08:24:16 INFO: ✅ Database synced
+2025-07-04 08:24:16 INFO: 🚀 Server running on port 5000
+2025-07-04 09:04:40 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-07-04 09:04:40 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:04:47 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-04 09:07:56 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:08:03 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 09:27:41 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-07-04 09:27:41 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:27:45 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 09:28:44 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 09:28:46 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 09:29:38 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:30:40 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:30:55 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 09:30:57 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:31:06 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:31:15 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 09:31:20 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:31:23 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 09:33:09 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 09:33:15 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:34:43 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 09:34:49 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:35:35 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 09:35:41 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:35:48 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:35:58 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:36:03 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:36:09 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 09:40:38 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 09:40:47 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 09:40:52 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:41:01 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 09:41:24 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:41:44 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 09:42:25 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:42:32 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 09:46:28 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:47:01 INFO: ✅ Database connection has been established successfully.
+2025-07-04 09:47:01 INFO: ✅ Database synced
+2025-07-04 09:47:01 INFO: 🚀 Server running on port 5000
+2025-07-04 09:47:20 INFO: ✅ Database connection has been established successfully.
+2025-07-04 09:47:20 INFO: ✅ Database synced
+2025-07-04 09:47:20 INFO: 🚀 Server running on port 5000
+2025-07-04 09:47:23 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 09:47:33 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:47:40 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 09:47:54 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:48:00 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 09:48:07 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:48:10 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:48:24 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 09:48:34 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:48:37 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 09:48:48 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:49:04 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 09:50:05 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:52:17 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:52:33 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:53:27 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 09:53:39 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:53:42 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 09:53:46 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:53:49 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 09:53:56 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:58:36 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:58:42 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:58:47 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 09:59:11 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:59:15 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:59:21 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 09:59:30 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 09:59:34 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 10:00:36 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 10:01:00 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 10:01:19 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 11:05:45 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 11:14:23 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 11:14:32 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 11:16:10 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 12:45:05 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 13:00:17 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 13:00:26 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 13:00:39 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 13:00:54 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 13:04:11 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 13:04:22 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 13:04:27 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 13:04:28 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 13:04:33 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 13:04:48 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 13:06:47 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 13:07:07 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 13:09:38 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 13:09:44 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 13:09:49 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 13:10:05 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 13:10:13 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 13:10:36 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 13:10:42 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 13:11:39 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 13:11:50 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 13:25:48 INFO: ✅ Database connection has been established successfully.
+2025-07-04 13:25:48 INFO: ✅ Database synced
+2025-07-04 13:25:48 INFO: 🚀 Server running on port 5000
+2025-07-04 13:25:55 INFO: ✅ Database connection has been established successfully.
+2025-07-04 13:25:55 INFO: ✅ Database synced
+2025-07-04 13:25:55 INFO: 🚀 Server running on port 5000
+2025-07-04 13:26:53 INFO: ✅ Database connection has been established successfully.
+2025-07-04 13:26:53 INFO: ✅ Database synced
+2025-07-04 13:26:53 INFO: 🚀 Server running on port 5000
+2025-07-04 13:27:03 INFO: ✅ Database connection has been established successfully.
+2025-07-04 13:27:03 INFO: ✅ Database synced
+2025-07-04 13:27:03 INFO: 🚀 Server running on port 5000
+2025-07-04 13:27:29 INFO: ✅ Database connection has been established successfully.
+2025-07-04 13:27:29 INFO: ✅ Database synced
+2025-07-04 13:27:29 INFO: 🚀 Server running on port 5000
+2025-07-04 13:28:14 INFO: ✅ Database connection has been established successfully.
+2025-07-04 13:28:14 INFO: ✅ Database synced
+2025-07-04 13:28:14 INFO: 🚀 Server running on port 5000
+2025-07-04 13:28:18 INFO: ✅ Database connection has been established successfully.
+2025-07-04 13:28:18 INFO: ✅ Database synced
+2025-07-04 13:28:18 INFO: 🚀 Server running on port 5000
+2025-07-04 13:57:19 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 13:57:22 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 15:45:53 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/75d84357-6fe3-4270-991a-4f147c393300, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-04 15:45:58 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 15:46:51 ERROR: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86, Status: 404, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86, Method: PATCH, Stack: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at Immediate.next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Immediate._onImmediate (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15)
+    at process.processImmediate (node:internal/timers:485:21)
+2025-07-04 15:47:28 ERROR: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Status: 404, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at Immediate.next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Immediate._onImmediate (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15)
+    at process.processImmediate (node:internal/timers:485:21)
+2025-07-04 15:47:52 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/75d84357-6fe3-4270-991a-4f147c393300, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-04 15:48:03 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 15:48:37 ERROR: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Status: 404, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at Immediate.next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Immediate._onImmediate (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15)
+    at process.processImmediate (node:internal/timers:485:21)
+2025-07-04 15:49:59 ERROR: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Status: 404, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at Immediate.next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Immediate._onImmediate (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15)
+    at process.processImmediate (node:internal/timers:485:21)
+2025-07-04 15:50:07 ERROR: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/Approved, Status: 404, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/Approved, Method: PATCH, Stack: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/Approved
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at Immediate.next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Immediate._onImmediate (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15)
+    at process.processImmediate (node:internal/timers:485:21)
+2025-07-04 15:51:19 ERROR: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Status: 404, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at Immediate.next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Immediate._onImmediate (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15)
+    at process.processImmediate (node:internal/timers:485:21)
+2025-07-04 15:53:12 INFO: ✅ Database connection has been established successfully.
+2025-07-04 15:53:12 INFO: ✅ Database synced
+2025-07-04 15:53:12 INFO: 🚀 Server running on port 5000
+2025-07-04 15:53:13 INFO: ✅ Database connection has been established successfully.
+2025-07-04 15:53:13 INFO: ✅ Database synced
+2025-07-04 15:53:13 INFO: 🚀 Server running on port 5000
+2025-07-04 15:53:22 ERROR: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Status: 404, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at Immediate.next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Immediate._onImmediate (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15)
+    at process.processImmediate (node:internal/timers:485:21)
+2025-07-04 16:05:59 INFO: ✅ Database connection has been established successfully.
+2025-07-04 16:05:59 INFO: ✅ Database synced
+2025-07-04 16:05:59 INFO: 🚀 Server running on port 5000
+2025-07-04 16:06:07 ERROR: Error: updateArrivalCardStatus is not defined, Status: 500, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: ReferenceError: updateArrivalCardStatus is not defined
+    at updateStatus (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:195:21)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:600:14)
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:610:14)
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:664:3)
+2025-07-04 16:06:19 INFO: ✅ Database connection has been established successfully.
+2025-07-04 16:06:19 INFO: ✅ Database synced
+2025-07-04 16:06:19 INFO: 🚀 Server running on port 5000
+2025-07-04 16:06:22 ERROR: Error: updateArrivalCardStatus is not defined, Status: 500, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: ReferenceError: updateArrivalCardStatus is not defined
+    at updateStatus (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:195:21)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:600:14)
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:610:14)
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:664:3)
+2025-07-04 16:06:42 ERROR: Error: updateArrivalCardStatus is not defined, Status: 500, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: ReferenceError: updateArrivalCardStatus is not defined
+    at updateStatus (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:195:21)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:600:14)
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:610:14)
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:664:3)
+2025-07-04 16:07:05 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 16:07:19 ERROR: Error: updateArrivalCardStatus is not defined, Status: 500, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: ReferenceError: updateArrivalCardStatus is not defined
+    at updateStatus (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:195:21)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:600:14)
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:610:14)
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:664:3)
+2025-07-04 16:08:24 INFO: ✅ Database connection has been established successfully.
+2025-07-04 16:08:24 INFO: ✅ Database connection has been established successfully.
+2025-07-04 16:08:24 INFO: ✅ Database synced
+2025-07-04 16:08:24 INFO: ✅ Database synced
+2025-07-04 16:08:24 INFO: 🚀 Server running on port 5000
+2025-07-04 16:08:24 INFO: 🚀 Server running on port 5000
+2025-07-04 16:08:31 ERROR: Error: updateArrivalCardStatus is not a function, Status: 500, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: TypeError: updateArrivalCardStatus is not a function
+    at updateStatus (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:197:27)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:600:14)
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:610:14)
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:664:3)
+2025-07-04 16:08:41 ERROR: Error: updateArrivalCardStatus is not a function, Status: 500, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: TypeError: updateArrivalCardStatus is not a function
+    at updateStatus (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:197:27)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:600:14)
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:610:14)
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:664:3)
+2025-07-04 16:08:42 ERROR: Error: updateArrivalCardStatus is not a function, Status: 500, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: TypeError: updateArrivalCardStatus is not a function
+    at updateStatus (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:197:27)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:600:14)
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:610:14)
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:664:3)
+2025-07-04 16:08:43 ERROR: Error: updateArrivalCardStatus is not a function, Status: 500, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: TypeError: updateArrivalCardStatus is not a function
+    at updateStatus (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:197:27)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:600:14)
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:610:14)
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:664:3)
+2025-07-04 16:08:45 ERROR: Error: updateArrivalCardStatus is not a function, Status: 500, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: TypeError: updateArrivalCardStatus is not a function
+    at updateStatus (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:197:27)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:600:14)
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:610:14)
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:664:3)
+2025-07-04 16:08:58 INFO: ✅ Database connection has been established successfully.
+2025-07-04 16:08:58 INFO: ✅ Database synced
+2025-07-04 16:08:58 INFO: 🚀 Server running on port 5000
+2025-07-04 16:09:16 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 16:09:27 INFO: New Arrival Card submission created:
+2025-07-04 16:09:34 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 16:09:42 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 16:09:50 ERROR: Error: updateArrivalCardStatus is not a function, Status: 500, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: TypeError: updateArrivalCardStatus is not a function
+    at updateStatus (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:197:27)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:600:14)
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:610:14)
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:664:3)
+2025-07-04 16:11:31 INFO: ✅ Database connection has been established successfully.
+2025-07-04 16:11:31 INFO: ✅ Database connection has been established successfully.
+2025-07-04 16:11:31 INFO: ✅ Database synced
+2025-07-04 16:11:31 INFO: ✅ Database synced
+2025-07-04 16:11:31 INFO: 🚀 Server running on port 5000
+2025-07-04 16:11:31 INFO: 🚀 Server running on port 5000
+2025-07-04 16:12:37 INFO: ✅ Database connection has been established successfully.
+2025-07-04 16:12:37 INFO: ✅ Database synced
+2025-07-04 16:12:37 INFO: 🚀 Server running on port 5000
+2025-07-04 16:12:41 ERROR: Error: updateArrivalCardStatus is not a function, Status: 500, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: TypeError: updateArrivalCardStatus is not a function
+    at updateStatus (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:197:27)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:600:14)
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:610:14)
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:664:3)
+2025-07-04 16:19:37 INFO: ✅ Database connection has been established successfully.
+2025-07-04 16:19:37 INFO: ✅ Database synced
+2025-07-04 16:19:37 INFO: 🚀 Server running on port 5000
+2025-07-04 16:19:37 INFO: ✅ Database connection has been established successfully.
+2025-07-04 16:19:37 INFO: ✅ Database synced
+2025-07-04 16:19:37 INFO: 🚀 Server running on port 5000
+2025-07-04 16:20:17 INFO: ✅ Database connection has been established successfully.
+2025-07-04 16:20:17 INFO: ✅ Database synced
+2025-07-04 16:20:17 INFO: 🚀 Server running on port 5000
+2025-07-04 16:20:18 INFO: ✅ Database connection has been established successfully.
+2025-07-04 16:20:18 INFO: ✅ Database synced
+2025-07-04 16:20:18 INFO: 🚀 Server running on port 5000
+2025-07-04 16:20:44 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 16:20:53 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 16:20:59 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 16:21:03 INFO: Fetched Arrival Card details for ID: 7b7cd3a1-7842-4d20-bf16-e2b9844b276b
+2025-07-04 16:23:01 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 16:23:05 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 16:23:13 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 16:23:27 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 16:23:43 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 16:23:56 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 16:24:16 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 16:24:23 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 16:28:36 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 16:28:44 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 16:28:56 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 16:29:03 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 16:29:38 INFO: ✅ Database connection has been established successfully.
+2025-07-04 16:29:38 INFO: ✅ Database synced
+2025-07-04 16:29:38 INFO: 🚀 Server running on port 5000
+2025-07-04 16:29:38 INFO: ✅ Database connection has been established successfully.
+2025-07-04 16:29:38 INFO: ✅ Database synced
+2025-07-04 16:29:38 INFO: 🚀 Server running on port 5000
+2025-07-04 16:30:01 INFO: ✅ Database connection has been established successfully.
+2025-07-04 16:30:01 INFO: ✅ Database synced
+2025-07-04 16:30:01 INFO: 🚀 Server running on port 5000
+2025-07-04 16:30:01 INFO: ✅ Database connection has been established successfully.
+2025-07-04 16:30:01 INFO: ✅ Database synced
+2025-07-04 16:30:01 INFO: 🚀 Server running on port 5000
+2025-07-04 16:31:09 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 16:31:27 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 16:31:33 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 16:32:02 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 16:32:10 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 16:36:05 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 16:37:43 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 16:40:11 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 16:45:18 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-04 16:45:21 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 16:47:40 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-04 17:06:28 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-07 09:30:57 INFO: ✅ Database connection has been established successfully.
+2025-07-07 09:30:57 INFO: ✅ Database synced
+2025-07-07 09:30:57 INFO: 🚀 Server running on port 5000
+2025-07-07 09:31:23 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-07-07 09:31:23 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-07 09:31:29 INFO: Fetched Arrival Card details for ID: 7b7cd3a1-7842-4d20-bf16-e2b9844b276b
+2025-07-07 09:31:33 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-07 09:34:26 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-07 09:38:36 INFO: Fetched Arrival Card details for ID: 7b7cd3a1-7842-4d20-bf16-e2b9844b276b
+2025-07-07 09:52:25 INFO: Fetched Arrival Card details for ID: 7b7cd3a1-7842-4d20-bf16-e2b9844b276b
+2025-07-07 09:55:38 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 08:45:41 INFO: ✅ Database connection has been established successfully.
+2025-07-08 08:45:41 INFO: ✅ Database synced
+2025-07-08 08:45:41 INFO: 🚀 Server running on port 5000
+2025-07-08 09:15:57 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-07-08 09:15:57 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 09:16:02 INFO: Fetched Arrival Card details for ID: 7b7cd3a1-7842-4d20-bf16-e2b9844b276b
+2025-07-08 09:16:05 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 09:29:20 INFO: Fetched Arrival Card details for ID: 7b7cd3a1-7842-4d20-bf16-e2b9844b276b
+2025-07-08 10:04:14 INFO: Fetched Arrival Card details for ID: 7b7cd3a1-7842-4d20-bf16-e2b9844b276b
+2025-07-08 10:32:01 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 10:32:04 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 10:32:08 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 10:32:10 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 10:32:26 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 10:33:06 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 10:35:10 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 10:43:36 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 10:43:40 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 10:43:44 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 10:43:59 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 10:44:08 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 10:44:11 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 10:44:18 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 10:44:22 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 10:44:29 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 10:44:33 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 10:48:48 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 10:48:53 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 10:48:55 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 10:48:55 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 10:49:00 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 10:49:04 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 10:49:08 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 10:49:08 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 10:49:10 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 10:49:42 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 12:43:48 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 12:43:55 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 12:43:55 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 12:43:58 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 13:08:54 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 13:09:00 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 13:09:04 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 13:09:04 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 13:18:20 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 13:18:24 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 13:18:29 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 13:18:33 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 13:19:18 ERROR: Error during admin login for user: 99747127aa@gmail.com. Error: username is not defined
+2025-07-08 13:19:18 ERROR: Error: username is not defined, Status: 500, Path: /api/admin/login, Method: POST, Stack: ReferenceError: username is not defined
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:61:66)
+2025-07-08 13:19:27 ERROR: Error during admin login for user: 99747127aa@gmail.com. Error: username is not defined
+2025-07-08 13:19:27 ERROR: Error: username is not defined, Status: 500, Path: /api/admin/login, Method: POST, Stack: ReferenceError: username is not defined
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:61:66)
+2025-07-08 13:19:40 ERROR: Error during admin login for user: 99747127aa@gmail.com. Error: username is not defined
+2025-07-08 13:19:40 ERROR: Error: username is not defined, Status: 500, Path: /api/admin/login, Method: POST, Stack: ReferenceError: username is not defined
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:61:66)
+2025-07-08 13:20:12 ERROR: Error during admin login for user: admin@example.com. Error: username is not defined
+2025-07-08 13:20:12 ERROR: Error: username is not defined, Status: 500, Path: /api/admin/login, Method: POST, Stack: ReferenceError: username is not defined
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:61:66)
+2025-07-08 13:20:28 ERROR: Error during admin login for user: admin@example.com. Error: username is not defined
+2025-07-08 13:20:28 ERROR: Error: username is not defined, Status: 500, Path: /api/admin/login, Method: POST, Stack: ReferenceError: username is not defined
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:61:66)
+2025-07-08 13:20:55 INFO: Admin user '99747127aA@gmail.com' logged in successfully. Token issued.
+2025-07-08 13:20:55 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 13:21:01 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 13:21:06 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 13:21:09 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 17:06:42 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 17:06:45 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:06:48 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:07:38 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 17:07:48 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:08:22 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 17:10:10 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:12:15 INFO: ✅ Database connection has been established successfully.
+2025-07-08 17:12:16 INFO: ✅ Database synced
+2025-07-08 17:12:16 INFO: 🚀 Server running on port 5000
+2025-07-08 17:12:20 INFO: ✅ Database connection has been established successfully.
+2025-07-08 17:12:20 INFO: ✅ Database synced
+2025-07-08 17:12:20 INFO: 🚀 Server running on port 5000
+2025-07-08 17:12:21 INFO: ✅ Database connection has been established successfully.
+2025-07-08 17:12:21 INFO: ✅ Database synced
+2025-07-08 17:12:21 INFO: 🚀 Server running on port 5000
+2025-07-08 17:12:23 INFO: ✅ Database connection has been established successfully.
+2025-07-08 17:12:23 INFO: ✅ Database synced
+2025-07-08 17:12:23 INFO: 🚀 Server running on port 5000
+2025-07-08 17:12:26 INFO: ✅ Database connection has been established successfully.
+2025-07-08 17:12:26 INFO: ✅ Database synced
+2025-07-08 17:12:26 INFO: 🚀 Server running on port 5000
+2025-07-08 17:12:29 INFO: ✅ Database connection has been established successfully.
+2025-07-08 17:12:29 INFO: ✅ Database synced
+2025-07-08 17:12:29 INFO: 🚀 Server running on port 5000
+2025-07-08 17:12:42 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 17:12:47 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:12:59 INFO: ✅ Database connection has been established successfully.
+2025-07-08 17:12:59 INFO: ✅ Database synced
+2025-07-08 17:12:59 INFO: 🚀 Server running on port 5000
+2025-07-08 17:13:03 INFO: ✅ Database connection has been established successfully.
+2025-07-08 17:13:03 INFO: ✅ Database synced
+2025-07-08 17:13:03 INFO: 🚀 Server running on port 5000
+2025-07-08 17:13:07 INFO: ✅ Database connection has been established successfully.
+2025-07-08 17:13:07 INFO: ✅ Database synced
+2025-07-08 17:13:07 INFO: 🚀 Server running on port 5000
+2025-07-08 17:13:11 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 17:13:14 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:13:27 INFO: ✅ Database connection has been established successfully.
+2025-07-08 17:13:27 INFO: ✅ Database synced
+2025-07-08 17:13:27 INFO: 🚀 Server running on port 5000
+2025-07-08 17:13:30 INFO: ✅ Database connection has been established successfully.
+2025-07-08 17:13:30 INFO: ✅ Database synced
+2025-07-08 17:13:30 INFO: 🚀 Server running on port 5000
+2025-07-08 17:13:33 INFO: ✅ Database connection has been established successfully.
+2025-07-08 17:13:33 INFO: ✅ Database synced
+2025-07-08 17:13:33 INFO: 🚀 Server running on port 5000
+2025-07-08 17:13:36 INFO: ✅ Database connection has been established successfully.
+2025-07-08 17:13:36 INFO: ✅ Database synced
+2025-07-08 17:13:36 INFO: 🚀 Server running on port 5000
+2025-07-08 17:13:37 INFO: ✅ Database connection has been established successfully.
+2025-07-08 17:13:37 INFO: ✅ Database synced
+2025-07-08 17:13:37 INFO: 🚀 Server running on port 5000
+2025-07-08 17:13:44 INFO: ✅ Database connection has been established successfully.
+2025-07-08 17:13:44 INFO: ✅ Database synced
+2025-07-08 17:13:44 INFO: 🚀 Server running on port 5000
+2025-07-08 17:13:54 INFO: ✅ Database connection has been established successfully.
+2025-07-08 17:13:54 INFO: ✅ Database synced
+2025-07-08 17:13:54 INFO: 🚀 Server running on port 5000
+2025-07-08 17:13:57 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 17:14:01 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:15:22 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:15:31 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:15:32 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:15:34 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:16:33 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:16:38 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:16:41 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:16:42 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:16:43 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:17:02 ERROR: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approval, Status: 404, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approval, Method: GET, Stack: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approval
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at Immediate.next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Immediate._onImmediate (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15)
+    at process.processImmediate (node:internal/timers:485:21)
+2025-07-08 17:17:04 ERROR: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approval, Status: 404, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approval, Method: GET, Stack: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approval
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at Immediate.next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Immediate._onImmediate (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15)
+    at process.processImmediate (node:internal/timers:485:21)
+2025-07-08 17:17:07 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:17:10 ERROR: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approval, Status: 404, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approval, Method: GET, Stack: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approval
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at Immediate.next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Immediate._onImmediate (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15)
+    at process.processImmediate (node:internal/timers:485:21)
+2025-07-08 17:17:17 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:17:23 INFO: ✅ Database connection has been established successfully.
+2025-07-08 17:17:23 INFO: ✅ Database synced
+2025-07-08 17:17:23 INFO: 🚀 Server running on port 5000
+2025-07-08 17:17:29 ERROR: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approval, Status: 404, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approval, Method: GET, Stack: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approval
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at Immediate.next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Immediate._onImmediate (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15)
+    at process.processImmediate (node:internal/timers:485:21)
+2025-07-08 17:17:45 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 17:17:45 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:17:47 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:17:48 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:17:56 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:17:57 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:17:59 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:18:06 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:18:08 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:18:09 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:18:12 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 17:18:17 ERROR: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approved%7D], Status: 404, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approved%7D], Method: PUT, Stack: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approved%7D]
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at Immediate.next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Immediate._onImmediate (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15)
+    at process.processImmediate (node:internal/timers:485:21)
+2025-07-08 17:18:45 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 17:18:45 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:18:48 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:18:51 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:18:55 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 17:18:59 ERROR: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approved, Status: 404, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approved, Method: PUT, Stack: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approved
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at Immediate.next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Immediate._onImmediate (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15)
+    at process.processImmediate (node:internal/timers:485:21)
+2025-07-08 17:19:35 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 17:19:35 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:19:43 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 17:19:47 ERROR: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Status: 404, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PUT, Stack: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at Immediate.next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Immediate._onImmediate (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15)
+    at process.processImmediate (node:internal/timers:485:21)
+2025-07-08 17:20:04 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 17:20:04 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:20:04 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:20:08 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 17:20:38 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:23:27 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 17:23:31 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 17:23:34 INFO: Fetched Arrival Card details for ID: ce140c37-fbf8-4c35-997e-62b89724ed86
+2025-07-08 17:23:41 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-08 18:34:44 INFO: ✅ Database connection has been established successfully.
+2025-07-08 18:34:44 INFO: ✅ Database synced
+2025-07-08 18:34:44 INFO: 🚀 Server running on port 5000
+2025-07-09 08:42:39 INFO: ✅ Database connection has been established successfully.
+2025-07-09 08:42:39 INFO: ✅ Database synced
+2025-07-09 08:42:39 INFO: 🚀 Server running on port 5000
+2025-07-09 08:44:04 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-07-09 08:44:04 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-09 09:07:08 INFO: File uploaded: 1752026828212-27938088-List Laos Travel Tip.png
+2025-07-09 09:07:08 INFO: New Arrival Card submission created:
+2025-07-09 09:07:14 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-09 09:07:23 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-09 09:07:25 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-09 09:07:28 INFO: Fetched Arrival Card details for ID: 23e2fd2d-0104-4897-bd4c-0e733d6ae57c
+2025-07-09 09:07:31 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-09 09:07:32 INFO: Fetched Arrival Card details for ID: 23e2fd2d-0104-4897-bd4c-0e733d6ae57c
+2025-07-09 09:07:38 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-09 09:08:04 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-09 09:08:05 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-09 09:08:05 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-09 09:08:06 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-09 09:08:07 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-09 09:08:07 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-09 09:08:07 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-09 09:08:10 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-09 09:08:20 INFO: Fetched Arrival Card details for ID: 23e2fd2d-0104-4897-bd4c-0e733d6ae57c
+2025-07-09 09:08:26 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-09 09:08:45 INFO: Fetched Arrival Card details for ID: 23e2fd2d-0104-4897-bd4c-0e733d6ae57c
+2025-07-09 09:08:54 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-09 09:16:54 INFO: Admin user '99747127aa@gmail.com' logged in successfully. Token issued.
+2025-07-09 09:16:54 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-09 09:16:57 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-09 09:16:59 INFO: Fetched Arrival Card details for ID: 23e2fd2d-0104-4897-bd4c-0e733d6ae57c
+2025-07-09 09:17:03 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-09 09:39:35 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-09 10:04:40 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-09 11:23:44 INFO: Fetched all Arrival Cards (page: 1, limit: 10)
+2025-07-11 08:37:05 ERROR: ❌ Unable to connect to DB or sync: 
+2025-07-11 08:37:54 INFO: ✅ Database connection has been established successfully.
+2025-07-11 08:37:54 INFO: ✅ Database synced
+2025-07-11 08:37:54 INFO: 🚀 Server running on port 5000
+2025-07-11 08:39:25 INFO: File uploaded: 1752197965876-349812103-List Laos Travel Tip.png
+2025-07-11 08:39:25 INFO: New Arrival Card submission created:
+2025-07-11 08:42:06 INFO: File uploaded: 1752198126239-50535727-List Laos Travel Tip.png
+2025-07-11 08:42:06 INFO: New Arrival Card submission created:

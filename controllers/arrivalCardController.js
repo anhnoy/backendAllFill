@@ -1,10 +1,10 @@
-// backend/controllers/arrivalCardController.js
 const {
   createArrivalCardSubmission,
   getArrivalCardSubmissionById,
   getAllArrivalCardSubmissions,
   updateArrivalCardSubmission,
-  deleteArrivalCardSubmission
+  deleteArrivalCardSubmission,
+  updateArrivalCardStatus, // ต้องมีใน repositories
 } = require('../repositories/arrivalCardRepository');
 const logger = require('../config/logger');
 const fs = require('fs');
@@ -36,7 +36,7 @@ const submitArrivalCard = async (req, res) => {
       requiredFields.push('typeOfAccommodation', 'province', 'address');
     }
 
-    // Only require modeOfTransport if modeOfTravel is not 'bus'
+    // Only require modeOfTransport if modeOfTravel is not 'BUS'
     if (modeOfTravel !== 'BUS') {
       requiredFields.push('modeOfTransport');
     }
@@ -88,9 +88,9 @@ const submitArrivalCard = async (req, res) => {
       data: newSubmission
     });
   } catch (error) {
-    console.error(error); // <--- Add this line
+    console.error(error);
     logger.error(`Error in submitArrivalCard: ${error.message}`);
-    
+
     // If there was a file upload and an error occurred, delete the uploaded file
     if (req.file) {
       const filePath = path.join(__dirname, '..', 'uploads', req.file.filename);
@@ -107,24 +107,24 @@ const submitArrivalCard = async (req, res) => {
 };
 
 const getArrivalCardDetails = async (req, res, next) => {
-    try {
-        const { id } = req.params;
-        const submission = await getArrivalCardSubmissionById(id);
+  try {
+    const { id } = req.params;
+    const submission = await getArrivalCardSubmissionById(id);
 
-        if (!submission) {
-            res.status(404); // Set status to 404 for Not Found
-            throw new Error('Arrival Card submission not found.');
-        }
-
-        logger.info(`Fetched Arrival Card details for ID: ${id}`);
-        res.status(200).json({
-            success: true,
-            message: 'Arrival Card details fetched successfully!',
-            data: submission
-        });
-    } catch (error) {
-        next(error); // ส่ง Error ไปยัง Global Error Handler
+    if (!submission) {
+      res.status(404);
+      throw new Error('Arrival Card submission not found.');
     }
+
+    logger.info(`Fetched Arrival Card details for ID: ${id}`);
+    res.status(200).json({
+      success: true,
+      message: 'Arrival Card details fetched successfully!',
+      data: submission
+    });
+  } catch (error) {
+    next(error);
+  }
 };
 
 const getAllArrivalCards = async (req, res, next) => {
@@ -153,7 +153,7 @@ const getAllArrivalCards = async (req, res, next) => {
       }
     });
   } catch (error) {
-    next(error); // ส่ง Error ไปยัง Global Error Handler
+    next(error);
   }
 };
 
@@ -186,10 +186,26 @@ const deleteArrivalCard = async (req, res, next) => {
   }
 };
 
+// เพิ่มฟังก์ชันสำหรับอัปเดต status
+const updateStatus = async (req, res, next) => {
+  try {
+    const { id } = req.params;
+    const { status } = req.body;
+    if (!['Pending', 'Approved', 'Rejected'].includes(status)) {
+      return res.status(400).json({ status: 'error', message: 'Invalid status' });
+    }
+    const updated = await updateArrivalCardStatus(id, status);
+    res.json({ status: 'success', data: updated });
+  } catch (error) {
+    next(error);
+  }
+};
+
 module.exports = {
   submitArrivalCard,
   getArrivalCardDetails,
   getAllArrivalCards,
   updateArrivalCard,
   deleteArrivalCard,
+  updateStatus, // export เพิ่มตรงนี้
 };

@@ -872,3 +872,362 @@ notNull Violation: ArrivalCardSubmission.modeOfTravel cannot be null
 2025-07-03 13:23:55 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
     at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 14:45:47 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 14:47:20 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 14:50:32 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/2, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 14:50:34 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/2, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 14:55:18 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 15:01:38 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 15:01:50 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 15:02:21 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 15:10:10 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 15:10:57 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 15:37:55 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 15:40:14 ERROR: Error: Not Found - /uploads/1751510346817-896632414-Image, Status: 404, Path: /uploads/1751510346817-896632414-Image, Method: GET, Stack: Error: Not Found - /uploads/1751510346817-896632414-Image
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at SendStream.error (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\serve-static\index.js:120:7)
+    at SendStream.emit (node:events:519:28)
+    at SendStream.error (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\send\index.js:168:17)
+    at SendStream.onStatError (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\send\index.js:315:12)
+2025-07-03 15:41:19 ERROR: Error: Not Found - /uploads/1751510346817-896632414-Image, Status: 404, Path: /uploads/1751510346817-896632414-Image, Method: GET, Stack: Error: Not Found - /uploads/1751510346817-896632414-Image
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at SendStream.error (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\serve-static\index.js:120:7)
+    at SendStream.emit (node:events:519:28)
+    at SendStream.error (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\send\index.js:168:17)
+    at SendStream.onStatError (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\send\index.js:315:12)
+2025-07-03 15:41:21 ERROR: Error: Not Found - /uploads/1751510346817-896632414-Image, Status: 404, Path: /uploads/1751510346817-896632414-Image, Method: GET, Stack: Error: Not Found - /uploads/1751510346817-896632414-Image
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at SendStream.error (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\serve-static\index.js:120:7)
+    at SendStream.emit (node:events:519:28)
+    at SendStream.error (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\send\index.js:168:17)
+    at SendStream.onStatError (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\send\index.js:315:12)
+2025-07-03 15:46:40 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 15:52:20 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 16:29:11 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 17:04:58 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 17:09:02 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 17:09:14 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03 17:13:01 ERROR: Error during admin login for user: 99747127aa@gmail.com. Error: username is not defined
+2025-07-03 17:13:01 ERROR: Error: username is not defined, Status: 500, Path: /api/admin/login, Method: POST, Stack: ReferenceError: username is not defined
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:61:66)
+2025-07-04 09:04:47 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/1, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-04 15:45:53 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/75d84357-6fe3-4270-991a-4f147c393300, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-04 15:46:51 ERROR: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86, Status: 404, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86, Method: PATCH, Stack: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at Immediate.next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Immediate._onImmediate (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15)
+    at process.processImmediate (node:internal/timers:485:21)
+2025-07-04 15:47:28 ERROR: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Status: 404, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at Immediate.next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Immediate._onImmediate (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15)
+    at process.processImmediate (node:internal/timers:485:21)
+2025-07-04 15:47:52 ERROR: Error: Arrival Card submission not found., Status: 404, Path: /api/v1/arrival-card/75d84357-6fe3-4270-991a-4f147c393300, Method: GET, Stack: Error: Arrival Card submission not found.
+    at getArrivalCardDetails (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:116:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-04 15:48:37 ERROR: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Status: 404, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at Immediate.next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Immediate._onImmediate (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15)
+    at process.processImmediate (node:internal/timers:485:21)
+2025-07-04 15:49:59 ERROR: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Status: 404, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at Immediate.next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Immediate._onImmediate (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15)
+    at process.processImmediate (node:internal/timers:485:21)
+2025-07-04 15:50:07 ERROR: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/Approved, Status: 404, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/Approved, Method: PATCH, Stack: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/Approved
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at Immediate.next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Immediate._onImmediate (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15)
+    at process.processImmediate (node:internal/timers:485:21)
+2025-07-04 15:51:19 ERROR: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Status: 404, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at Immediate.next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Immediate._onImmediate (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15)
+    at process.processImmediate (node:internal/timers:485:21)
+2025-07-04 15:53:22 ERROR: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Status: 404, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at Immediate.next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Immediate._onImmediate (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15)
+    at process.processImmediate (node:internal/timers:485:21)
+2025-07-04 16:06:07 ERROR: Error: updateArrivalCardStatus is not defined, Status: 500, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: ReferenceError: updateArrivalCardStatus is not defined
+    at updateStatus (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:195:21)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:600:14)
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:610:14)
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:664:3)
+2025-07-04 16:06:22 ERROR: Error: updateArrivalCardStatus is not defined, Status: 500, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: ReferenceError: updateArrivalCardStatus is not defined
+    at updateStatus (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:195:21)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:600:14)
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:610:14)
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:664:3)
+2025-07-04 16:06:42 ERROR: Error: updateArrivalCardStatus is not defined, Status: 500, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: ReferenceError: updateArrivalCardStatus is not defined
+    at updateStatus (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:195:21)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:600:14)
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:610:14)
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:664:3)
+2025-07-04 16:07:19 ERROR: Error: updateArrivalCardStatus is not defined, Status: 500, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: ReferenceError: updateArrivalCardStatus is not defined
+    at updateStatus (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:195:21)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:600:14)
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:610:14)
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:664:3)
+2025-07-04 16:08:31 ERROR: Error: updateArrivalCardStatus is not a function, Status: 500, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: TypeError: updateArrivalCardStatus is not a function
+    at updateStatus (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:197:27)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:600:14)
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:610:14)
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:664:3)
+2025-07-04 16:08:41 ERROR: Error: updateArrivalCardStatus is not a function, Status: 500, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: TypeError: updateArrivalCardStatus is not a function
+    at updateStatus (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:197:27)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:600:14)
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:610:14)
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:664:3)
+2025-07-04 16:08:42 ERROR: Error: updateArrivalCardStatus is not a function, Status: 500, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: TypeError: updateArrivalCardStatus is not a function
+    at updateStatus (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:197:27)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:600:14)
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:610:14)
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:664:3)
+2025-07-04 16:08:43 ERROR: Error: updateArrivalCardStatus is not a function, Status: 500, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: TypeError: updateArrivalCardStatus is not a function
+    at updateStatus (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:197:27)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:600:14)
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:610:14)
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:664:3)
+2025-07-04 16:08:45 ERROR: Error: updateArrivalCardStatus is not a function, Status: 500, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: TypeError: updateArrivalCardStatus is not a function
+    at updateStatus (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:197:27)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:600:14)
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:610:14)
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:664:3)
+2025-07-04 16:09:50 ERROR: Error: updateArrivalCardStatus is not a function, Status: 500, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: TypeError: updateArrivalCardStatus is not a function
+    at updateStatus (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:197:27)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:600:14)
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:610:14)
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:664:3)
+2025-07-04 16:12:41 ERROR: Error: updateArrivalCardStatus is not a function, Status: 500, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PATCH, Stack: TypeError: updateArrivalCardStatus is not a function
+    at updateStatus (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\arrivalCardController.js:197:27)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:295:15
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:600:14)
+    at param (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:610:14)
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:664:3)
+2025-07-08 13:19:18 ERROR: Error during admin login for user: 99747127aa@gmail.com. Error: username is not defined
+2025-07-08 13:19:18 ERROR: Error: username is not defined, Status: 500, Path: /api/admin/login, Method: POST, Stack: ReferenceError: username is not defined
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:61:66)
+2025-07-08 13:19:27 ERROR: Error during admin login for user: 99747127aa@gmail.com. Error: username is not defined
+2025-07-08 13:19:27 ERROR: Error: username is not defined, Status: 500, Path: /api/admin/login, Method: POST, Stack: ReferenceError: username is not defined
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:61:66)
+2025-07-08 13:19:40 ERROR: Error during admin login for user: 99747127aa@gmail.com. Error: username is not defined
+2025-07-08 13:19:40 ERROR: Error: username is not defined, Status: 500, Path: /api/admin/login, Method: POST, Stack: ReferenceError: username is not defined
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:61:66)
+2025-07-08 13:20:12 ERROR: Error during admin login for user: admin@example.com. Error: username is not defined
+2025-07-08 13:20:12 ERROR: Error: username is not defined, Status: 500, Path: /api/admin/login, Method: POST, Stack: ReferenceError: username is not defined
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:61:66)
+2025-07-08 13:20:28 ERROR: Error during admin login for user: admin@example.com. Error: username is not defined
+2025-07-08 13:20:28 ERROR: Error: username is not defined, Status: 500, Path: /api/admin/login, Method: POST, Stack: ReferenceError: username is not defined
+    at login (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\controllers\adminController.js:61:66)
+2025-07-08 17:17:02 ERROR: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approval, Status: 404, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approval, Method: GET, Stack: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approval
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at Immediate.next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Immediate._onImmediate (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15)
+    at process.processImmediate (node:internal/timers:485:21)
+2025-07-08 17:17:04 ERROR: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approval, Status: 404, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approval, Method: GET, Stack: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approval
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at Immediate.next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Immediate._onImmediate (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15)
+    at process.processImmediate (node:internal/timers:485:21)
+2025-07-08 17:17:10 ERROR: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approval, Status: 404, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approval, Method: GET, Stack: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approval
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at Immediate.next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Immediate._onImmediate (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15)
+    at process.processImmediate (node:internal/timers:485:21)
+2025-07-08 17:17:29 ERROR: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approval, Status: 404, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approval, Method: GET, Stack: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approval
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at Immediate.next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Immediate._onImmediate (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15)
+    at process.processImmediate (node:internal/timers:485:21)
+2025-07-08 17:18:17 ERROR: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approved%7D], Status: 404, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approved%7D], Method: PUT, Stack: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approved%7D]
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at Immediate.next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Immediate._onImmediate (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15)
+    at process.processImmediate (node:internal/timers:485:21)
+2025-07-08 17:18:59 ERROR: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approved, Status: 404, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approved, Method: PUT, Stack: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/approved
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at Immediate.next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Immediate._onImmediate (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15)
+    at process.processImmediate (node:internal/timers:485:21)
+2025-07-08 17:19:47 ERROR: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Status: 404, Path: /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status, Method: PUT, Stack: Error: Not Found - /api/v1/arrival-card/ce140c37-fbf8-4c35-997e-62b89724ed86/status
+    at notFound (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\middlewares\errorHandler.js:18:17)
+    at Layer.handleRequest (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:342:13)
+    at C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:582:12)
+    at Immediate.next (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:291:5)
+    at Immediate._onImmediate (C:\Users\kheua\Downloads\AllFill - Online Top-up Platform\backend\node_modules\router\index.js:688:15)
+    at process.processImmediate (node:internal/timers:485:21)
+2025-07-11 08:37:05 ERROR: ❌ Unable to connect to DB or sync: 

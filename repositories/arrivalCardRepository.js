@@ -59,6 +59,19 @@ const deleteArrivalCardSubmission = async (id) => {
     throw error;
   }
 };
+
+const updateArrivalCardStatus = async (id, status) => {
+  try {
+    const submission = await ArrivalCardSubmission.findByPk(id);
+    if (!submission) throw new Error('Arrival Card submission not found');
+    submission.status = status;
+    await submission.save();
+    return submission;
+  } catch (error) {
+    logger.error(`Error in updateArrivalCardStatus: ${error.message}`);
+    throw error;
+  }
+};
   
 module.exports = {
   createArrivalCardSubmission,
@@ -66,4 +79,5 @@ module.exports = {
   getAllArrivalCardSubmissions,
   updateArrivalCardSubmission,
   deleteArrivalCardSubmission,
+  updateArrivalCardStatus,
 };

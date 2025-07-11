@@ -2,16 +2,15 @@
 const express = require('express');
 const cors = require('cors');
 const helmet = require('helmet');
-const bodyParser = require('body-parser'); 
 const sequelize = require('./config/database');
 const logger = require('./config/logger');
+const statusRoutes = require('./routes/statusRoute');
 require('dotenv').config();
-
 
 require('./models');
 
 const { notFound, errorHandler } = require('./middlewares/errorHandler');
-const mainRoutes = require('./routes/index'); // 
+const mainRoutes = require('./routes/index');
 
 const app = express();
 
@@ -20,36 +19,31 @@ app.use(helmet({
 }));
 
 app.use(cors({
-    // origin: process.env.FRONTEND_URL || 'http://localhost:3000', 
-    // credentials: true, 
     origin: '*', // สำหรับการพัฒนา, ควรเปลี่ยนเป็น URL ของ Frontend ใน production
-    credentials: true,
-    methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'], 
-    allowedHeaders: ['Content-Type', 'Authorization'], 
+    methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
+    allowedHeaders: ['Content-Type', 'Authorization'],
 }));
 
-app.use(express.json()); 
-app.use(express.urlencoded({ extended: true })); 
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
 app.use('/uploads', cors({
   origin: '*', // อนุญาตทุก origin
-  // ห้ามใส่ credentials: true ถ้าใช้ origin: '*'
 }));
-// เพิ่ม header Cross-Origin-Resource-Policy: cross-origin ให้ static file
 app.use('/uploads', (req, res, next) => {
   res.setHeader('Cross-Origin-Resource-Policy', 'cross-origin');
   next();
 });
 app.use('/uploads', express.static('uploads'));
 
-
-app.use('/api', mainRoutes); 
+// Register statusRoutes BEFORE mainRoutes to ensure PATCH /:id/status works
+app.use('/api/v1/arrival-card', statusRoutes);
+app.use('/api', mainRoutes);
 
 app.use(notFound);
-
 app.use(errorHandler);
 
-const PORT = process.env.PORT || 5000; 
+const PORT = process.env.PORT || 5000;
 
 sequelize.authenticate()
   .then(() => logger.info('✅ Database connection has been established successfully.'))
