@@ -58,7 +58,7 @@ const login = async (req, res, next) => {
 
     // 2.4 ตรวจสอบว่ารหัสผ่านตรงกันหรือไม่
     if (!isMatch) {
-      logger.warn(`Login attempt: Incorrect password for user '${username}'.`);
+      logger.warn(`Login attempt: Incorrect password for user '${email}'.`);
       // ส่งคืน HTTP Status 401 (Unauthorized)
       return res.status(401).json({ success: false, message: 'Invalid credentials' });
     }

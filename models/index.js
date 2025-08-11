@@ -1,13 +1,11 @@
 // backend/models/index.js
 const sequelize = require('../config/database');
 const Admin = require('./admin'); 
-const ArrivalCardSubmission = require('./arrivalCard'); // 
-
-
+const TDACRegistration = require('./tdacRegistration');
 
 const models = {
   Admin,
-  ArrivalCardSubmission, 
+  TDACRegistration,
 };
 
 module.exports = {

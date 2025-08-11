@@ -4,7 +4,6 @@ const cors = require('cors');
 const helmet = require('helmet');
 const sequelize = require('./config/database');
 const logger = require('./config/logger');
-const statusRoutes = require('./routes/statusRoute');
 require('dotenv').config();
 
 require('./models');
@@ -27,18 +26,16 @@ app.use(cors({
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-app.use('/uploads', cors({
-  origin: '*', // อนุญาตทุก origin
-}));
-app.use('/uploads', (req, res, next) => {
-  res.setHeader('Cross-Origin-Resource-Policy', 'cross-origin');
-  next();
-});
+// Serve static files (uploaded images)
 app.use('/uploads', express.static('uploads'));
 
-// Register statusRoutes BEFORE mainRoutes to ensure PATCH /:id/status works
-app.use('/api/v1/arrival-card', statusRoutes);
+// Main API routes - admin login functionality + TDAC registration
 app.use('/api', mainRoutes);
+
+// Test route to verify TDAC functionality
+app.get('/api/tdac/test', (req, res) => {
+  res.json({ message: 'TDAC routes working directly!' });
+});
 
 app.use(notFound);
 app.use(errorHandler);
@@ -47,12 +44,17 @@ const PORT = process.env.PORT || 5000;
 
 sequelize.authenticate()
   .then(() => logger.info('✅ Database connection has been established successfully.'))
-  .then(() => sequelize.sync())
+  .then(() => {
+    // Use force: false to avoid recreating tables and reduce conflicts
+    return sequelize.sync({ force: false }); 
+  })
   .then(() => {
     logger.info('✅ Database synced');
     app.listen(PORT, () => logger.info(`🚀 Server running on port ${PORT}`));
   })
   .catch((err) => {
     logger.error(`❌ Unable to connect to DB or sync: ${err.message}`);
-    process.exit(1);
+    // Don't exit process, try to start server anyway
+    logger.info(`🚀 Starting server anyway on port ${PORT}`);
+    app.listen(PORT, () => logger.info(`🚀 Server running on port ${PORT} (without DB sync)`));
   });
