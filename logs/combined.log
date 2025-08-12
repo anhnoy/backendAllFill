@@ -5890,3 +5890,6 @@ notNull Violation: ArrivalCardSubmission.paymentSlipUrl cannot be null
 2025-08-12 15:43:16 INFO: Passport photo uploaded: passportPhoto-1754988196402-947388330.png
 2025-08-12 15:43:16 INFO: Payment slip uploaded: paymentSlip-1754988196416-82441412.png
 2025-08-12 15:43:16 INFO: New TDAC registration created:
+2025-08-12 15:57:54 INFO: ✅ Database connection has been established successfully.
+2025-08-12 15:57:54 INFO: ✅ Database synced
+2025-08-12 15:57:54 INFO: 🚀 Server running on port 5000
