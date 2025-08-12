@@ -284,15 +284,14 @@ const updateTDACRegistrationStatus = async (req, res) => {
       processedAt: new Date()
     });
 
+    // Refresh the data to get updated values
+    await registration.reload();
+
     logger.info(`TDAC registration status updated: ${id} -> ${status}`);
     res.status(200).json({
       success: true,
       message: `Registration status updated to ${status}`,
-      data: {
-        id: registration.id,
-        status: registration.status,
-        processedAt: registration.processedAt
-      }
+      data: registration
     });
   } catch (error) {
     logger.error(`Error in updateTDACRegistrationStatus: ${error.message}`);

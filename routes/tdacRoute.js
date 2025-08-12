@@ -40,21 +40,29 @@ router.post('/register',
 router.get('/registration/:id', getTDACRegistrationById);
 
 /**
- * @route GET /api/tdac/admin/registrations
+ * @route GET /api/tdac/registrations/:id
+ * @desc Get TDAC registration by ID (Admin access)
+ * @param id - Registration UUID
+ * @access Private (Admin only)
+ */
+router.get('/registrations/:id', protect, getTDACRegistrationById);
+
+/**
+ * @route GET /api/tdac/registrations
  * @desc Get all TDAC registrations (Admin only)
  * @query page, limit, status
  * @access Private (Admin only)
  */
-router.get('/admin/registrations', protect, getAllTDACRegistrations);
+router.get('/registrations', protect, getAllTDACRegistrations);
 
 /**
- * @route PATCH /api/tdac/admin/registration/:id/status
+ * @route PATCH /api/tdac/registrations/:id
  * @desc Update registration status (Admin only)
  * @param id - Registration UUID
  * @body { status: 'PENDING' | 'APPROVED' | 'REJECTED', notes?: string }
  * @access Private (Admin only)
  */
-router.patch('/admin/registration/:id/status', protect, updateTDACRegistrationStatus);
+router.patch('/registrations/:id', protect, updateTDACRegistrationStatus);
 
 /**
  * @route GET /api/tdac/admin/stats
